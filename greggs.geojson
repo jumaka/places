@@ -126,30 +126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.161736,
-          52.257224
-        ]
-      },
-      "properties": {
-        "ref": "1263",
-        "name": "Daventry, U20 Bowen Sq",
-        "addr:streetAddress": "U20 Bowen Square",
-        "addr:addressLocality": "Daventry",
-        "addr:postcode": "NN11 4DR",
-        "addr:country": "GB",
-        "contact:phone": "01327300144",
-        "operator": "Greggs plc",
-        "brand": "Greggs",
-        "brand:wikidata": "Q3403981",
-        "amenity": "fast_food",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.897016,
           52.481804
         ]
@@ -12870,6 +12846,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.378834,
+          53.579784
+        ]
+      },
+      "properties": {
+        "ref": "5896",
+        "name": "MFG Meadow",
+        "addr:streetAddress": "Shell Meadow Service Station 1041 Bury Road",
+        "addr:addressLocality": "Bolton",
+        "addr:postcode": "BL2 6PY",
+        "addr:country": "GB",
+        "contact:phone": "01204370930",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.470352,
           53.379189
         ]
@@ -15234,6 +15234,30 @@
         "addr:postcode": "HP11 2DF",
         "addr:country": "GB",
         "contact:phone": "01494536884",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.127022,
+          51.538916
+        ]
+      },
+      "properties": {
+        "ref": "0651",
+        "name": "Dagenham, 12 Woodward Rd",
+        "addr:streetAddress": "12 Woodward Road",
+        "addr:addressLocality": "Dagenham",
+        "addr:postcode": "RM9 4SH",
+        "addr:country": "GB",
+        "contact:phone": "02085925768",
         "operator": "Greggs plc",
         "brand": "Greggs",
         "brand:wikidata": "Q3403981",
@@ -18186,6 +18210,30 @@
         "addr:postcode": "E6 1HZ",
         "addr:country": "GB",
         "contact:phone": "02084716996",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.388117,
+          53.096875
+        ]
+      },
+      "properties": {
+        "ref": "0235",
+        "name": "Alfreton, 1 Institute Lane",
+        "addr:streetAddress": "1 Institute Lane",
+        "addr:addressLocality": "Alfreton",
+        "addr:postcode": "DE55 7BQ",
+        "addr:country": "GB",
+        "contact:phone": "01773830762",
         "operator": "Greggs plc",
         "brand": "Greggs",
         "brand:wikidata": "Q3403981",
@@ -25218,6 +25266,30 @@
         "addr:postcode": "L24 1YD",
         "addr:country": "GB",
         "contact:phone": "01514861441",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.258335,
+          51.941163
+        ]
+      },
+      "properties": {
+        "ref": "5721",
+        "name": "Harwich, U1A Harwich Gateway RP",
+        "addr:streetAddress": "U1A Harwich Gateway Retail Park Parkeston Bypass",
+        "addr:addressLocality": "Harwich",
+        "addr:postcode": "CO12 4EN",
+        "addr:country": "GB",
+        "contact:phone": "01255551174",
         "operator": "Greggs plc",
         "brand": "Greggs",
         "brand:wikidata": "Q3403981",
@@ -37134,6 +37206,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.533372,
+          51.392442
+        ]
+      },
+      "properties": {
+        "ref": "5472",
+        "name": "COMPASS Brompton Barracks",
+        "addr:streetAddress": "Brompton Barracks",
+        "addr:addressLocality": "Chatham",
+        "addr:postcode": "ME4 4UG",
+        "addr:country": "GB",
+        "contact:phone": "01634812687",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.068356,
           55.9771
         ]
@@ -43278,30 +43374,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.734513,
-          56.703433
-        ]
-      },
-      "properties": {
-        "ref": "2205",
-        "name": "Pitlochry, 92 Atholl Rd",
-        "addr:streetAddress": "92 Atholl Road",
-        "addr:addressLocality": "Pitlochry",
-        "addr:postcode": "PH16 5BL",
-        "addr:country": "GB",
-        "contact:phone": "01796472467",
-        "operator": "Greggs plc",
-        "brand": "Greggs",
-        "brand:wikidata": "Q3403981",
-        "amenity": "fast_food",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.855121,
           55.241119
         ]
@@ -44430,30 +44502,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.545939,
-          53.797692
-        ]
-      },
-      "properties": {
-        "ref": "1901",
-        "name": "Leeds, 30 Bond St",
-        "addr:streetAddress": "30 Bond Street",
-        "addr:addressLocality": "Leeds",
-        "addr:postcode": "LS1 5BQ",
-        "addr:country": "GB",
-        "contact:phone": "01132427990",
-        "operator": "Greggs plc",
-        "brand": "Greggs",
-        "brand:wikidata": "Q3403981",
-        "amenity": "fast_food",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.481967,
           53.02307
         ]
@@ -45030,6 +45078,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.45288,
+          52.890922
+        ]
+      },
+      "properties": {
+        "ref": "1484",
+        "name": "Derby, 830 Osmaston Rd",
+        "addr:streetAddress": "830 Osmaston Road",
+        "addr:addressLocality": "Allenton",
+        "addr:postcode": "DE24 9AA",
+        "addr:country": "GB",
+        "contact:phone": "01332365067",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.853674,
           51.548643
         ]
@@ -45330,30 +45402,6 @@
         "addr:postcode": "CM8 2BB",
         "addr:country": "GB",
         "contact:phone": "01376513366",
-        "operator": "Greggs plc",
-        "brand": "Greggs",
-        "brand:wikidata": "Q3403981",
-        "amenity": "fast_food",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.093544,
-          51.473187
-        ]
-      },
-      "properties": {
-        "ref": "0964",
-        "name": "Camberwell, 18 Denmark Hill",
-        "addr:streetAddress": "18/20 Denmark Hill",
-        "addr:addressLocality": "Camberwell",
-        "addr:postcode": "SE5 8RZ",
-        "addr:country": "GB",
-        "contact:phone": "02077371093",
         "operator": "Greggs plc",
         "brand": "Greggs",
         "brand:wikidata": "Q3403981",
@@ -46866,6 +46914,30 @@
         "addr:postcode": "SA14 9UY",
         "addr:country": "GB",
         "contact:phone": "01554757597",
+        "operator": "Greggs plc",
+        "brand": "Greggs",
+        "brand:wikidata": "Q3403981",
+        "amenity": "fast_food",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.220865,
+          51.669047
+        ]
+      },
+      "properties": {
+        "ref": "5449",
+        "name": "Blackwood, U13 St Davids IE, Pinewd Crt",
+        "addr:streetAddress": "U13 St Davids Industrial Estate Pinewood Court",
+        "addr:addressLocality": "Blackwood",
+        "addr:postcode": "NP12 3SW",
+        "addr:country": "GB",
+        "contact:phone": "01443834306",
         "operator": "Greggs plc",
         "brand": "Greggs",
         "brand:wikidata": "Q3403981",
@@ -51929,7 +52001,7 @@
         "addr:addressLocality": "Swindon",
         "addr:postcode": "SN3 4WH",
         "addr:country": "GB",
-        "contact:phone": "01793828683",
+        "contact:phone": "01793827050",
         "operator": "Greggs plc",
         "brand": "Greggs",
         "brand:wikidata": "Q3403981",
