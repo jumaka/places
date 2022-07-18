@@ -2906,6 +2906,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.772643,
+          55.95634
+        ]
+      },
+      "properties": {
+        "ref": "/stores/1951/haddington",
+        "contact:website": "https://www.screwfix.com/stores/1951/haddington",
+        "name": "Screwfix Haddington",
+        "addr:streetAddress": "Whittingehame Drive",
+        "addr:addressLocality": "Haddington",
+        "addr:addressRegion": "East Lothian",
+        "addr:postcode": "EH41 4BD",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.187221,
+          51.38901
+        ]
+      },
+      "properties": {
+        "ref": "/stores/1952/swanley",
+        "contact:website": "https://www.screwfix.com/stores/1952/swanley",
+        "name": "Screwfix Swanley",
+        "addr:streetAddress": "Mark Way",
+        "addr:addressLocality": "Swanley",
+        "addr:addressRegion": "Kent",
+        "addr:postcode": "BR8 8NJ",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.374855,
           51.46714
         ]
@@ -18943,6 +18993,106 @@
         "addr:addressLocality": "Leamington Spa",
         "addr:addressRegion": "Warwick",
         "addr:postcode": "CV34 6RS",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66972,
+          52.79041
+        ]
+      },
+      "properties": {
+        "ref": "/stores/790/burton-on-trent-branston",
+        "contact:website": "https://www.screwfix.com/stores/790/burton-on-trent-branston",
+        "name": "Screwfix Burton-on-Trent - Branston",
+        "addr:streetAddress": "Ninth Avenue",
+        "addr:addressLocality": "Burton-on-Trent",
+        "addr:addressRegion": "Staffordshire",
+        "addr:postcode": "DE14 3JZ",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.296998,
+          53.110374
+        ]
+      },
+      "properties": {
+        "ref": "/stores/791/sutton-in-ashfield",
+        "contact:website": "https://www.screwfix.com/stores/791/sutton-in-ashfield",
+        "name": "Screwfix Sutton-in-Ashfield",
+        "addr:streetAddress": "Castlewood Business Park",
+        "addr:addressLocality": "Sutton-in-Ashfield",
+        "addr:addressRegion": "Nottinghamshire",
+        "addr:postcode": "NG17 1BX",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.998941,
+          52.506393
+        ]
+      },
+      "properties": {
+        "ref": "/stores/792/attleborough",
+        "contact:website": "https://www.screwfix.com/stores/792/attleborough",
+        "name": "Screwfix Attleborough",
+        "addr:streetAddress": "Haverscroft Ind Est",
+        "addr:addressLocality": "Attleborough",
+        "addr:addressRegion": "Norfolk",
+        "addr:postcode": "NR17 1YE",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.045859,
+          53.99003
+        ]
+      },
+      "properties": {
+        "ref": "/stores/793/york-monks-cross",
+        "contact:website": "https://www.screwfix.com/stores/793/york-monks-cross",
+        "name": "Screwfix York - Monks Cross",
+        "addr:streetAddress": "Monks Cross Drive",
+        "addr:addressLocality": "York",
+        "addr:addressRegion": "North Yorkshire",
+        "addr:postcode": "YO32 9GZ",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
