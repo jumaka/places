@@ -2031,6 +2031,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.211442,
+          53.165813
+        ]
+      },
+      "properties": {
+        "ref": "/stores/16754/congleton-tc",
+        "contact:website": "https://www.screwfix.com/stores/16754/congleton-tc",
+        "name": "Screwfix Congleton TC",
+        "addr:streetAddress": "Mountbatten Way",
+        "addr:addressLocality": "Congleton",
+        "addr:addressRegion": "",
+        "addr:postcode": "CW12 1Dl",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.994036,
           53.466446
         ]
@@ -4611,9 +4636,9 @@
         ]
       },
       "properties": {
-        "ref": "/stores/2600001/rochdale",
-        "contact:website": "https://www.screwfix.com/stores/2600001/rochdale",
-        "name": "Screwfix Rochdale",
+        "ref": "/stores/2600001/rochdale-fishwick-street",
+        "contact:website": "https://www.screwfix.com/stores/2600001/rochdale-fishwick-street",
+        "name": "Screwfix Rochdale - Fishwick Street",
         "addr:streetAddress": "Unit 2-3, Magnum Centre",
         "addr:addressLocality": "Rochdale",
         "addr:addressRegion": "Lancashire",
@@ -15417,7 +15442,7 @@
         "addr:streetAddress": "Unit A and E",
         "addr:addressLocality": "Dundee",
         "addr:addressRegion": "Angus",
-        "addr:postcode": "DD4 7RF",
+        "addr:postcode": "DD4 7FF",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
@@ -16641,8 +16666,8 @@
         "name": "Screwfix Holmes Chapel",
         "addr:streetAddress": "8 Oxford Road",
         "addr:addressLocality": "Holmes Chapel",
-        "addr:addressRegion": "Cheshire",
-        "addr:postcode": "CW4 8AG",
+        "addr:addressRegion": "",
+        "addr:postcode": "CW4 4AB",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
@@ -18631,6 +18656,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.244597,
+          53.424618
+        ]
+      },
+      "properties": {
+        "ref": "/stores/7766/rotherham-hellaby",
+        "contact:website": "https://www.screwfix.com/stores/7766/rotherham-hellaby",
+        "name": "Screwfix Rotherham - Hellaby",
+        "addr:streetAddress": "Denby Way",
+        "addr:addressLocality": "Rotherham",
+        "addr:addressRegion": "South Yorkshire",
+        "addr:postcode": "S66 8QL",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.151853,
           51.372204
         ]
@@ -19106,6 +19156,156 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.739506,
+          52.68191
+        ]
+      },
+      "properties": {
+        "ref": "/stores/794/oakham",
+        "contact:website": "https://www.screwfix.com/stores/794/oakham",
+        "name": "Screwfix Oakham",
+        "addr:streetAddress": "Tungsten Park",
+        "addr:addressLocality": "Oakham",
+        "addr:addressRegion": "East Midlands",
+        "addr:postcode": "LE15 7US",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.318866,
+          50.921726
+        ]
+      },
+      "properties": {
+        "ref": "/stores/795/sturminster-newton",
+        "contact:website": "https://www.screwfix.com/stores/795/sturminster-newton",
+        "name": "Screwfix Sturminster Newton",
+        "addr:streetAddress": "North Dorset Business Park",
+        "addr:addressLocality": "Sturminster Newton",
+        "addr:addressRegion": "Dorset",
+        "addr:postcode": "DT10 2GA",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.518226,
+          51.66433
+        ]
+      },
+      "properties": {
+        "ref": "/stores/796/treorchy",
+        "contact:website": "https://www.screwfix.com/stores/796/treorchy",
+        "name": "Screwfix Treorchy",
+        "addr:streetAddress": "Treorchy Business Park",
+        "addr:addressLocality": "Treorchy",
+        "addr:addressRegion": "Wales",
+        "addr:postcode": "CF42 6DL",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.57678,
+          53.382595
+        ]
+      },
+      "properties": {
+        "ref": "/stores/797/warrington-latchford",
+        "contact:website": "https://www.screwfix.com/stores/797/warrington-latchford",
+        "name": "Screwfix Warrington Latchford",
+        "addr:streetAddress": "Beatrice Street",
+        "addr:addressLocality": "Warrington",
+        "addr:addressRegion": "Cheshire",
+        "addr:postcode": "WA4 1DR",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.509619,
+          51.83521
+        ]
+      },
+      "properties": {
+        "ref": "/stores/798/cinderford",
+        "contact:website": "https://www.screwfix.com/stores/798/cinderford",
+        "name": "Screwfix Cinderford",
+        "addr:streetAddress": "Broadmoor Park",
+        "addr:addressLocality": "Cinderford",
+        "addr:addressRegion": "Gloucestershire",
+        "addr:postcode": "GL14 2YF",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.605945,
+          53.201206
+        ]
+      },
+      "properties": {
+        "ref": "/stores/799/lincoln-whisby-road",
+        "contact:website": "https://www.screwfix.com/stores/799/lincoln-whisby-road",
+        "name": "Screwfix Lincoln - Whisby Road",
+        "addr:streetAddress": "Discovery Court",
+        "addr:addressLocality": "Lincoln",
+        "addr:addressRegion": "East Midlands",
+        "addr:postcode": "LN6 3QZ",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.303377,
           51.491882
         ]
@@ -19156,6 +19356,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.860972,
+          52.89981
+        ]
+      },
+      "properties": {
+        "ref": "/stores/800/uttoxeter",
+        "contact:website": "https://www.screwfix.com/stores/800/uttoxeter",
+        "name": "Screwfix Uttoxeter",
+        "addr:streetAddress": "Town Meadows Way",
+        "addr:addressLocality": "Uttoxeter",
+        "addr:addressRegion": "Staffordshire",
+        "addr:postcode": "ST14 8AZ",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.044818,
           51.611767
         ]
@@ -19168,6 +19393,131 @@
         "addr:addressLocality": "Edmonton",
         "addr:addressRegion": "London",
         "addr:postcode": "N18 3AF",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.376659,
+          55.60302
+        ]
+      },
+      "properties": {
+        "ref": "/stores/801/galston",
+        "contact:website": "https://www.screwfix.com/stores/801/galston",
+        "name": "Screwfix Galston",
+        "addr:streetAddress": "Newmilns Road",
+        "addr:addressLocality": "Galston",
+        "addr:addressRegion": "East Ayrshire",
+        "addr:postcode": "KA4 8PA",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17214,
+          53.6198
+        ]
+      },
+      "properties": {
+        "ref": "/stores/802/rochdale-spotland-road",
+        "contact:website": "https://www.screwfix.com/stores/802/rochdale-spotland-road",
+        "name": "Screwfix Rochdale - Spotland Road",
+        "addr:streetAddress": "Coldwall Ind Est",
+        "addr:addressLocality": "Rochdale",
+        "addr:addressRegion": "Greater Manchester",
+        "addr:postcode": "OL12 7BD",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.797463,
+          55.646603
+        ]
+      },
+      "properties": {
+        "ref": "/stores/803/ardrossan",
+        "contact:website": "https://www.screwfix.com/stores/803/ardrossan",
+        "name": "Screwfix Ardrossan",
+        "addr:streetAddress": "Sorbie Road",
+        "addr:addressLocality": "Ardrossan",
+        "addr:addressRegion": "North Ayrshire",
+        "addr:postcode": "KA22 7AA",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386593,
+          53.718697
+        ]
+      },
+      "properties": {
+        "ref": "/stores/804/castleford-whitwood",
+        "contact:website": "https://www.screwfix.com/stores/804/castleford-whitwood",
+        "name": "Screwfix Castleford - Whitwood",
+        "addr:streetAddress": "Links 31",
+        "addr:addressLocality": "Castleford",
+        "addr:addressRegion": "West Yorkshire",
+        "addr:postcode": "WF10 5NP",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.741722,
+          53.01097
+        ]
+      },
+      "properties": {
+        "ref": "/stores/805/ashbourne",
+        "contact:website": "https://www.screwfix.com/stores/805/ashbourne",
+        "name": "Screwfix Ashbourne",
+        "addr:streetAddress": "Waterside Park",
+        "addr:addressLocality": "Ashbourne",
+        "addr:addressRegion": "Derbyshire",
+        "addr:postcode": "DE6 1DG",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",

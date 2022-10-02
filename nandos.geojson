@@ -20,7 +20,7 @@
         "addr:postcode": "AB10 1LB",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:00-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -214,6 +214,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.878637,
+          51.136824
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/ashford-designer-outlet",
+        "contact:website": "https://www.nandos.co.uk/restaurants/ashford-designer-outlet",
+        "name": "Ashford Designer Outlet",
+        "addr:streetAddress": "Unit 156 , Ashford Designer Outlet Village, TN24 0SD, ",
+        "addr:addressLocality": "Kimberley Way",
+        "addr:addressRegion": "Ashford",
+        "addr:postcode": "TN24 0SD",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Sa 11:30-21:00, Su 11:30-20:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.111338,
           53.48927
         ]
@@ -304,6 +330,32 @@
         "addr:addressLocality": "London",
         "addr:addressRegion": "London",
         "addr:postcode": "SW12 9AA",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.332621,
+          52.06358
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/banbury",
+        "contact:website": "https://www.nandos.co.uk/restaurants/banbury",
+        "name": "Banbury",
+        "addr:streetAddress": "Unit 4, Castle Quay, Spiceball Park Road, OX16 2PA, ",
+        "addr:addressLocality": "Banbury",
+        "addr:addressRegion": "Oxfordshire",
+        "addr:postcode": "OX16 2PA",
         "addr:country": "",
         "contact:phone": "",
         "opening_hours": "Mo-Su 11:30-22:00",
@@ -644,7 +696,7 @@
         "addr:postcode": "E6 7ER",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-We 11:30-22:30, Th-Sa 11:30-23:00, Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -930,7 +982,7 @@
         "addr:postcode": "B5 4BP",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Sa 11:00-22:00, Su 11:00-21:00",
+        "opening_hours": "Mo-Th 11:00-21:00, Fr-Sa 11:00-22:00, Su 11:00-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -1788,7 +1840,7 @@
         "addr:postcode": "BS1 5NT",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 12:00-21:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -1970,7 +2022,7 @@
         "addr:postcode": "DE14 1NQ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -2022,7 +2074,7 @@
         "addr:postcode": "IP33 3DG",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -2490,7 +2542,7 @@
         "addr:postcode": "GL50 4EQ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su closed",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -2514,6 +2566,32 @@
         "addr:addressLocality": "Cheshire",
         "addr:addressRegion": "Cheshire",
         "addr:postcode": "CH65 9HD",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03747,
+          51.7179
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/cheshunt-retail-park",
+        "contact:website": "https://www.nandos.co.uk/restaurants/cheshunt-retail-park",
+        "name": "Cheshunt Retail Park ",
+        "addr:streetAddress": "Brookfield Centre,, EN8 0TA, ",
+        "addr:addressLocality": "Cheshunt,",
+        "addr:addressRegion": "",
+        "addr:postcode": "EN8 0TA",
         "addr:country": "",
         "contact:phone": "",
         "opening_hours": "Mo-Su 11:30-22:00",
@@ -2776,7 +2854,7 @@
         "addr:postcode": "CO1 1NX",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -3166,7 +3244,7 @@
         "addr:postcode": "CW1 2AQ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:30",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -3270,7 +3348,7 @@
         "addr:postcode": "E8 2NS",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -3348,7 +3426,7 @@
         "addr:postcode": "DE1 2NQ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -3374,7 +3452,7 @@
         "addr:postcode": "DE1 3AH",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-21:30",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -3426,7 +3504,7 @@
         "addr:postcode": "OX11 7LG",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -4284,7 +4362,7 @@
         "addr:postcode": "CB6 2FE",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -4388,7 +4466,7 @@
         "addr:postcode": "NW1 2RT",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Tu 11:30-22:00, We closed, Th-Fr 11:30-22:00, Sa closed, Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -4934,7 +5012,7 @@
         "addr:postcode": "G1 4BW",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-We 11:30-22:00, Th 14:00-22:00, Fr-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -5142,7 +5220,7 @@
         "addr:postcode": "W1W 5QZ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Sa 11:30-22:00, Su 11:30-17:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -5428,7 +5506,7 @@
         "addr:postcode": "HA1 1HS",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -6026,7 +6104,7 @@
         "addr:postcode": "IP3 9SN",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -6078,7 +6156,7 @@
         "addr:postcode": "NW10 3NB",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Fr 11:30-22:00, Sa 11:30-17:00, Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -6234,7 +6312,7 @@
         "addr:postcode": "PE30 1AY",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -6833,7 +6911,7 @@
         "addr:postcode": "EC3M 7HR",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo closed, Tu-Fr 11:30-22:00, Sa 12:00-20:00, Su closed",
+        "opening_hours": "Mo-Fr 11:30-22:00, Sa 12:00-20:00, Su closed",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -7041,7 +7119,7 @@
         "addr:postcode": "IG10 1AA",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo CLOSED-21:30, Tu-Su 11:30-21:30",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -7065,6 +7143,32 @@
         "addr:addressLocality": "Bedfordshire",
         "addr:addressRegion": "Bedfordshire",
         "addr:postcode": "LU1 2NB",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.454692,
+          51.888801
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/luton-hatters-way-retail-park",
+        "contact:website": "https://www.nandos.co.uk/restaurants/luton-hatters-way-retail-park",
+        "name": "Luton - Hatters Way Retail Park",
+        "addr:streetAddress": "Hatters Retail Park, Chaul End Lane, LU4 8FD, ",
+        "addr:addressLocality": "Luton",
+        "addr:addressRegion": "",
+        "addr:postcode": "LU4 8FD",
         "addr:country": "",
         "contact:phone": "",
         "opening_hours": "Mo-Su 11:30-22:00",
@@ -7847,7 +7951,7 @@
         "addr:postcode": "",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Sa 11:30-22:00, Su 11:30-21:00",
+        "opening_hours": "Mo-Tu 11:30-21:00, We-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -8550,7 +8654,7 @@
         "addr:postcode": "OX1 1NZ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -8758,7 +8862,7 @@
         "addr:postcode": "PO1 3TR",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su closed",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -8940,7 +9044,7 @@
         "addr:postcode": "B97 4HA",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -9564,7 +9668,7 @@
         "addr:postcode": "W1D 3JF",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Sa 11:30-22:00, Su 12:00-22:00",
+        "opening_hours": "Mo 17:00-22:00, Tu-Sa 11:30-22:00, Su 12:00-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -9772,7 +9876,7 @@
         "addr:postcode": "SO15 1QF",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo 11:30-20:30, Tu-Sa 11:30-19:30, Su 11:30-16:30",
+        "opening_hours": "Mo-Sa 11:30-19:30, Su 11:30-16:30",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10058,7 +10162,7 @@
         "addr:postcode": "ST16 2HQ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10110,7 +10214,7 @@
         "addr:postcode": "SE1 9NH",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Tu 11:30-22:00, We 11:30-20:15, Th 14:00-22:00, Fr-Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10174,21 +10278,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.198135,
-          51.891175
+          -0.198915,
+          51.891989
         ]
       },
       "properties": {
         "ref": "/restaurants/stevenage-roaring-meg",
         "contact:website": "https://www.nandos.co.uk/restaurants/stevenage-roaring-meg",
         "name": "Stevenage - Roaring Meg",
-        "addr:streetAddress": "Great N Rd, Debenhams Roaring Meg Retail Park, Stevenage, SG1 1XN, ",
+        "addr:streetAddress": "Roaring Meg Retail Park, Stevenage, SG1 1XN, ",
         "addr:addressLocality": "Hertfordshire",
         "addr:addressRegion": "Hertfordshire",
         "addr:postcode": "SG1 1XN",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Sa 11:30-21:00, Su 11:30-20:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10304,32 +10408,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.176349,
-          53.029021
-        ]
-      },
-      "properties": {
-        "ref": "/restaurants/stoke-intu-potteries",
-        "contact:website": "https://www.nandos.co.uk/restaurants/stoke-intu-potteries",
-        "name": "Stoke - Intu Potteries",
-        "addr:streetAddress": "Bryan St, Unit 1, Intu Potteries, Stoke-on-Trent, ST1 1PS, ",
-        "addr:addressLocality": "Staffordshire",
-        "addr:addressRegion": "Staffordshire",
-        "addr:postcode": "ST1 1PS",
-        "addr:country": "",
-        "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
-        "cuisine": "chicken;portuguese",
-        "brand": "Nando's",
-        "brand:wikidata": "Q3472954",
-        "amenity": "restaurant"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.081118,
           51.561728
         ]
@@ -10356,6 +10434,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.176349,
+          53.029021
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/stoke-potteries-centre",
+        "contact:website": "https://www.nandos.co.uk/restaurants/stoke-potteries-centre",
+        "name": "Stoke \u2013 The Potteries Centre",
+        "addr:streetAddress": "Bryan St, Unit 1, Intu Potteries, Stoke-on-Trent, ST1 1PS, ",
+        "addr:addressLocality": "Staffordshire",
+        "addr:addressRegion": "Staffordshire",
+        "addr:postcode": "ST1 1PS",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.004156,
           51.542345
         ]
@@ -10370,7 +10474,7 @@
         "addr:postcode": "E15 4LJ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10396,7 +10500,7 @@
         "addr:postcode": "CV37 6JW",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-21:00, Fr-Sa 11:30-22:00, Su 11:30-21:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -11046,7 +11150,7 @@
         "addr:postcode": "SW1V 1DZ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo 11:00-22:00, Tu-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
