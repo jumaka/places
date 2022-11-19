@@ -20,37 +20,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846117",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge UK",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.305184,
-          52.185708
-        ]
-      },
-      "properties": {
-        "ref": "10/Bedford-Wyboston",
-        "contact:website": "https://www.travelodge.co.uk/hotels/10/Bedford-Wyboston",
-        "name": "Travelodge Bedford Wyboston",
-        "addr:streetAddress": "A1 North, Nr. Chawston, Black Cat Roundabout",
-        "addr:addressLocality": "Bedford",
-        "addr:postcode": "MK44 3BE",
-        "addr:country": "GB",
-        "contact:phone": "08719 846010",
-        "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -77,8 +49,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846055",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -105,8 +77,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846056",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -133,8 +105,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846057",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -161,8 +133,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846058",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -189,8 +161,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846059",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -217,8 +189,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846003",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -245,8 +217,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846061",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -273,8 +245,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846121",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -301,8 +273,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846062",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -357,8 +329,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846011",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -385,8 +357,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846063",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -413,8 +385,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846065",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -441,8 +413,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846066",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -469,8 +441,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846067",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -497,8 +469,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846122",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -525,8 +497,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846124",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -553,8 +525,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846125",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -581,8 +553,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846068",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -609,8 +581,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846012",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -637,8 +609,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846069",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -665,8 +637,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846129",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -693,8 +665,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846071",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -721,8 +693,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846131",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -749,8 +721,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846132",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -777,8 +749,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846073",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -805,8 +777,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846075",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -833,8 +805,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846076",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -861,8 +833,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846013",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -889,8 +861,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846077",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -917,8 +889,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846144",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -945,8 +917,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846078",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -973,8 +945,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846079",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1001,8 +973,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846147",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1029,8 +1001,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846081",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1057,8 +1029,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846082",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1085,8 +1057,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846014",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1113,8 +1085,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846153",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1141,8 +1113,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846154",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1197,9 +1169,9 @@
         "addr:country": "GB",
         "contact:phone": "03719 846155",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1226,8 +1198,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846235",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1254,8 +1226,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846083",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1282,8 +1254,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846085",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1338,8 +1310,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846015",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1366,8 +1338,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846086",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1394,9 +1366,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846159",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1423,8 +1395,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846262",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1451,8 +1423,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846162",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1479,8 +1451,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846163",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1507,8 +1479,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846089",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1535,8 +1507,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846091",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1563,8 +1535,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846092",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1591,8 +1563,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846093",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1619,8 +1591,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846094",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1647,8 +1619,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846095",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1675,8 +1647,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846096",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1703,8 +1675,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846097",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1731,8 +1703,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846170",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1759,8 +1731,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846016",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1787,8 +1759,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846172",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1815,8 +1787,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846098",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1843,8 +1815,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846099",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1871,8 +1843,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846175",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1899,8 +1871,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846103",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1927,8 +1899,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846177",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1955,8 +1927,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846104",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -1983,8 +1955,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846105",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2011,8 +1983,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846106",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2039,9 +2011,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846017",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2068,8 +2040,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846107",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2096,8 +2068,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846108",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2124,8 +2096,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846109",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2152,8 +2124,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846110",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2180,8 +2152,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846111",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2208,8 +2180,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846112",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2263,8 +2235,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846019",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2291,8 +2263,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846115",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2319,8 +2291,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846184",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2347,8 +2319,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846185",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2375,8 +2347,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846116",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2403,8 +2375,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846186",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2459,8 +2431,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846118",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2487,8 +2459,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846126",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2515,8 +2487,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846127",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2543,8 +2515,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846119",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2571,8 +2543,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846021",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2599,8 +2571,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846128",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2627,8 +2599,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846133",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2655,8 +2627,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846134",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2683,8 +2655,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846136",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2711,9 +2683,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846137",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2740,8 +2712,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846139",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2768,9 +2740,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846335",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2797,9 +2769,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846141",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2826,8 +2798,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846022",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2854,8 +2826,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846148",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2882,8 +2854,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846149",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2910,8 +2882,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846151",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2938,9 +2910,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846164",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2967,8 +2939,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846165",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -2995,8 +2967,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846166",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3023,8 +2995,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846168",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3051,8 +3023,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846176",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3079,8 +3051,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846023",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3107,8 +3079,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846174",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3135,8 +3107,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846173",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3163,8 +3135,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846178",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3191,8 +3163,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846025",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3219,8 +3191,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846024",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3247,8 +3219,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846267",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3275,8 +3247,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846026",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3303,8 +3275,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846227",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3331,8 +3303,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846161",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3359,8 +3331,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846179",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3387,8 +3359,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846271",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3415,8 +3387,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846246",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3471,9 +3443,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846253",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3500,8 +3472,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846250",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3556,9 +3528,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846101",
         "facilities": [
-          "Bar Cafe",
+          "WiFi",
           "Chargeable Parking Nearby",
-          "WiFi"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3613,9 +3585,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846256",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3642,8 +3614,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846028",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3670,9 +3642,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846254",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3727,8 +3699,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846281",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3755,8 +3727,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846275",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3811,9 +3783,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846257",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3840,8 +3812,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846289",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3868,8 +3840,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846272",
         "facilities": [
-          "Bar Cafe",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3896,8 +3868,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846029",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3924,9 +3896,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846274",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3953,8 +3925,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846087",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -3981,8 +3953,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846276",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4009,8 +3981,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846278",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4037,8 +4009,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846288",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4065,8 +4037,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846285",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4093,9 +4065,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846277",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4122,9 +4094,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846282",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4151,9 +4123,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846210",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4180,8 +4152,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846283",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4208,8 +4180,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846284",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4236,9 +4208,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846293",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4265,9 +4237,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846295",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4294,9 +4266,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846297",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4323,8 +4295,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846032",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4351,9 +4323,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846280",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4380,8 +4352,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846182",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4408,8 +4380,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846140",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4436,8 +4408,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846296",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4464,8 +4436,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846302",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4492,9 +4464,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846160",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4521,8 +4493,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846287",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4549,8 +4521,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846002",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4577,8 +4549,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846301",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4605,9 +4577,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846310",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4634,8 +4606,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846309",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4662,9 +4634,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846312",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4691,9 +4663,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846150",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4720,8 +4692,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846314",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4748,9 +4720,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846319",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4777,9 +4749,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846466",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4890,9 +4862,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846315",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4919,9 +4891,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846313",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4948,9 +4920,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846305",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -4977,9 +4949,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846245",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5006,8 +4978,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846035",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5034,9 +5006,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846320",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5063,9 +5035,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846316",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5092,9 +5064,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846318",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5121,9 +5093,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846337",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5150,8 +5122,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846321",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5178,9 +5150,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846317",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5207,8 +5179,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846338",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5235,9 +5207,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846331",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5264,8 +5236,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846036",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5292,8 +5264,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846327",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5320,9 +5292,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846325",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5349,8 +5321,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846347",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5377,9 +5349,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846326",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5406,8 +5378,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846341",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5434,8 +5406,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846339",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5462,9 +5434,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846348",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5491,8 +5463,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846037",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5519,9 +5491,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846352",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5548,9 +5520,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846332",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5577,9 +5549,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846356",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5606,8 +5578,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846342",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5634,8 +5606,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846359",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5662,8 +5634,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846038",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5690,9 +5662,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846358",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5719,9 +5691,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846366",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5748,8 +5720,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846364",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5776,9 +5748,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846365",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5805,9 +5777,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846381",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5834,9 +5806,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846405",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5863,9 +5835,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846351",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5892,8 +5864,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846039",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5920,9 +5892,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846407",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5949,9 +5921,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846374",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -5978,9 +5950,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846367",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6007,8 +5979,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846371",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6063,9 +6035,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846372",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6092,8 +6064,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846041",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6120,8 +6092,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846383",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6148,9 +6120,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846375",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6177,9 +6149,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846412",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6206,9 +6178,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846346",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6235,8 +6207,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846408",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6263,9 +6235,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846414",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6292,9 +6264,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846377",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6321,8 +6293,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846042",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6349,9 +6321,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846424",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6378,9 +6350,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846191",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6407,9 +6379,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846379",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6436,8 +6408,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846362",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6464,8 +6436,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846361",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6492,8 +6464,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846421",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6520,9 +6492,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846409",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6549,8 +6521,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846043",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6605,9 +6577,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846427",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6634,9 +6606,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846430",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6663,9 +6635,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846428",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6692,8 +6664,8 @@
         "addr:country": "GB",
         "contact:phone": "03719 846411",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6720,9 +6692,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846004",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6777,9 +6749,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846436",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6806,9 +6778,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846434",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6863,9 +6835,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846431",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6920,8 +6892,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846244",
         "facilities": [
-          "Bar Cafe",
           "WiFi",
+          "Bar Cafe",
           "chargeable parking nearby"
         ],
         "operator": "Travelodge UK",
@@ -6949,9 +6921,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846340",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -6978,8 +6950,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846045",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7006,9 +6978,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846423",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7063,8 +7035,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846437",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7091,9 +7063,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846442",
         "facilities": [
-          "Bar Cafe",
+          "WiFi",
           "Free parking nearby",
-          "WiFi"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7120,8 +7092,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846258",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7148,9 +7120,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846438",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7177,8 +7149,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846439",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7205,9 +7177,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846458",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7262,9 +7234,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846291",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7291,9 +7263,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846443",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7320,9 +7292,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846446",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7405,8 +7377,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846452",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7433,8 +7405,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846189",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7461,9 +7433,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846449",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7490,9 +7462,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846460",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7547,8 +7519,8 @@
         "addr:country": "GB",
         "contact:phone": "02031 954650",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7575,8 +7547,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591802",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7603,8 +7575,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591803",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7631,8 +7603,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591804",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7659,8 +7631,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591805",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7687,8 +7659,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591806",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7715,8 +7687,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591807",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7743,8 +7715,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591808",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7771,8 +7743,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591809",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7799,8 +7771,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591810",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7827,8 +7799,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591811",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7855,8 +7827,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591812",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7883,8 +7855,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591813",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7911,8 +7883,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591814",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7939,8 +7911,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591816",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7967,8 +7939,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591817",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -7995,8 +7967,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591818",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8023,8 +7995,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591819",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8051,8 +8023,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591820",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8079,8 +8051,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591821",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8107,8 +8079,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591823",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8135,8 +8107,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591824",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8163,8 +8135,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591825",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8191,8 +8163,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591826",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8219,8 +8191,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591827",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8247,8 +8219,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591828",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8275,8 +8247,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591829",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8303,8 +8275,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591830",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8331,8 +8303,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591831",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8359,8 +8331,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591832",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8387,8 +8359,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591833",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8415,8 +8387,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591834",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8443,8 +8415,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591835",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8471,8 +8443,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591837",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8499,8 +8471,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591838",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8527,8 +8499,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591840",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8555,8 +8527,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591841",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8583,9 +8555,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846040",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8612,8 +8584,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591843",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8640,8 +8612,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591842",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8668,8 +8640,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591844",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8696,8 +8668,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591846",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8724,8 +8696,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591848",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8752,8 +8724,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591850",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8808,8 +8780,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591852",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8836,8 +8808,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591839",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8864,8 +8836,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846294",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8892,9 +8864,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846456",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8921,8 +8893,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846463",
         "facilities": [
-          "Free parking nearby",
-          "WiFi"
+          "WiFi",
+          "Free parking nearby"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -8977,9 +8949,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846471",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9006,8 +8978,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846195",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9034,9 +9006,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846465",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9063,9 +9035,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846393",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9092,9 +9064,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846468",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9121,9 +9093,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846467",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9150,9 +9122,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846473",
         "facilities": [
-          "Bar Cafe",
+          "WiFi",
           "Chargeable Parking Nearby",
-          "WiFi"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9207,8 +9179,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846476",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9235,8 +9207,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846196",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9263,8 +9235,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846477",
         "facilities": [
-          "Bar Cafe",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9319,9 +9291,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846481",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9348,8 +9320,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846521",
         "facilities": [
-          "Bar Cafe",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9404,9 +9376,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846506",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9461,9 +9433,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846483",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9490,9 +9462,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846355",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9519,8 +9491,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846484",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9547,9 +9519,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846469",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9576,9 +9548,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846487",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9605,9 +9577,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846482",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9634,8 +9606,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846488",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9662,9 +9634,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846496",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9691,9 +9663,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846520",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9720,8 +9692,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846198",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9748,8 +9720,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846501",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9804,9 +9776,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846495",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9833,8 +9805,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846515",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9861,9 +9833,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846493",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9890,8 +9862,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846020",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9918,9 +9890,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846503",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -9947,8 +9919,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846507",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10059,9 +10031,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846231",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10172,8 +10144,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846259",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10200,9 +10172,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846360",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10229,8 +10201,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846200",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10257,8 +10229,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846330",
         "facilities": [
-          "Free parking nearby",
-          "WiFi"
+          "WiFi",
+          "Free parking nearby"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10285,8 +10257,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846390",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10341,9 +10313,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846329",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10370,8 +10342,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846380",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10398,8 +10370,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846203",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10426,8 +10398,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846511",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10454,8 +10426,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591853",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10482,8 +10454,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846350",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10510,9 +10482,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591856",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10567,9 +10539,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846462",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10596,9 +10568,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846457",
         "facilities": [
-          "Bar Cafe",
+          "WiFi",
           "Free parking nearby",
-          "WiFi"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10653,8 +10625,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846204",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10681,8 +10653,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846504",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10709,8 +10681,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591858",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10737,9 +10709,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591859",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10766,9 +10738,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591860",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10795,9 +10767,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591861",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10824,9 +10796,9 @@
         "addr:country": "GB",
         "contact:phone": "03715 591854",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10853,8 +10825,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846205",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10881,9 +10853,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846513",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -10938,9 +10910,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846512",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11051,8 +11023,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591866",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11079,9 +11051,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591869",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11108,8 +11080,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846001",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11136,9 +11108,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591868",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11165,9 +11137,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591873",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11194,9 +11166,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591871",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11223,9 +11195,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591872",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11252,9 +11224,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591874",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11309,9 +11281,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591878",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11338,9 +11310,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591877",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11367,8 +11339,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846006",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11395,8 +11367,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846206",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11424,8 +11396,8 @@
         "contact:phone": "08715 591876",
         "facilities": [
           "Chargeable parking nearby",
-          "WiFi",
-          "Air cooling unit"
+          "Air cooling unit",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11452,9 +11424,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591879",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11481,9 +11453,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591880",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11538,8 +11510,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591882",
         "facilities": [
-          "Free parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11566,9 +11538,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591887",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11595,9 +11567,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591883",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11652,9 +11624,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591892",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11681,8 +11653,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846207",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11709,9 +11681,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591893",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11738,8 +11710,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591889",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11766,9 +11738,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591894",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11795,9 +11767,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591896",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11824,9 +11796,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591895",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11853,8 +11825,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846208",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11881,9 +11853,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591898",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11910,9 +11882,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591899",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11939,9 +11911,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846531",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11968,9 +11940,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846516",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -11997,9 +11969,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846517",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12026,9 +11998,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846518",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12083,8 +12055,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846209",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12111,9 +12083,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846528",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12140,9 +12112,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846519",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "WiFi"
+          "WiFi",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12169,9 +12141,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846526",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12198,9 +12170,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846524",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12227,9 +12199,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846529",
         "facilities": [
-          "Free parking onsite",
           "WiFi",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12256,9 +12228,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846499",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12285,8 +12257,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846527",
         "facilities": [
-          "Free parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12341,9 +12313,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846532",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12370,9 +12342,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846533",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12455,9 +12427,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846536",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12484,8 +12456,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846539",
         "facilities": [
-          "Free parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12512,9 +12484,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846538",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12541,9 +12513,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846543",
         "facilities": [
-          "Bar Cafe",
+          "Air cooling unit",
           "Limited Free Parking on-site",
-          "Air cooling unit"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12570,9 +12542,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846540",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12599,8 +12571,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846242",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12627,9 +12599,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846541",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12656,9 +12628,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846551",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12713,9 +12685,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846545",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12742,9 +12714,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846549",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12771,9 +12743,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846550",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12800,8 +12772,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846212",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12856,9 +12828,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846553",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12885,9 +12857,9 @@
         "addr:country": "GB",
         "contact:phone": "03719 846554",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12914,9 +12886,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846555",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -12943,9 +12915,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846556",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13000,9 +12972,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846566",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13029,8 +13001,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846557",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13057,8 +13029,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846213",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13085,9 +13057,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846567",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13114,9 +13086,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846560",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13143,9 +13115,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846561",
         "facilities": [
+          "WiFi",
           "Bar Cafe",
-          "Free parking onsite",
-          "WiFi"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13172,9 +13144,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846570",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13201,9 +13173,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846571",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13230,8 +13202,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846573",
         "facilities": [
-          "Free parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13258,8 +13230,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846215",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13286,9 +13258,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846572",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13315,8 +13287,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846576",
         "facilities": [
-          "Free parking onsite",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13343,8 +13315,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846574",
         "facilities": [
-          "chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "chargeable parking nearby"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13371,9 +13343,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846584",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13400,9 +13372,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846581",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13429,9 +13401,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846580",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13458,9 +13430,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846577",
         "facilities": [
-          "Bar Cafe",
           "Chargeable parking nearby",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13487,9 +13459,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846583",
         "facilities": [
+          "Air cooling unit",
           "Bar Cafe",
-          "Free parking onsite",
-          "Air cooling unit"
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13516,9 +13488,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846578",
         "facilities": [
-          "Chargeable Parking Nearby",
           "WiFi",
-          "Air cooling unit"
+          "Air cooling unit",
+          "Chargeable Parking Nearby"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13545,8 +13517,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846008",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13573,8 +13545,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846214",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13601,8 +13573,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846007",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13657,8 +13629,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846220",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13685,8 +13657,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846243",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13713,9 +13685,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846223",
         "facilities": [
-          "Bar Cafe",
+          "Chargeable parking onsite",
           "WiFi",
-          "Chargeable parking onsite"
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13742,8 +13714,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846222",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13770,8 +13742,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846261",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13798,8 +13770,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846018",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13826,8 +13798,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846224",
         "facilities": [
-          "Chargeable Parking Nearby",
-          "WiFi"
+          "WiFi",
+          "Chargeable Parking Nearby"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13854,8 +13826,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846225",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13882,8 +13854,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846226",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13910,8 +13882,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846202",
         "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
+          "Chargeable parking onsite",
+          "WiFi"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13938,8 +13910,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846233",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13966,8 +13938,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846228",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -13994,8 +13966,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846229",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14022,8 +13994,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846230",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14050,8 +14022,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846009",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14078,8 +14050,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846047",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14106,8 +14078,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846048",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14134,8 +14106,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846049",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14162,8 +14134,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846237",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14190,8 +14162,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846051",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14218,8 +14190,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846052",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14246,8 +14218,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846053",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",
@@ -14274,8 +14246,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846054",
         "facilities": [
-          "Free parking onsite",
-          "WiFi"
+          "WiFi",
+          "Free parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge UK",

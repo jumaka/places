@@ -411,9 +411,9 @@
         ]
       },
       "properties": {
-        "ref": "/stores/111/castleford",
-        "contact:website": "https://www.screwfix.com/stores/111/castleford",
-        "name": "Screwfix Castleford",
+        "ref": "/stores/111/castleford-glasshoughton",
+        "contact:website": "https://www.screwfix.com/stores/111/castleford-glasshoughton",
+        "name": "Screwfix Castleford - Glasshoughton",
         "addr:streetAddress": "Unit 6 Marrtree Business Park",
         "addr:addressLocality": "Castleford",
         "addr:addressRegion": "West Yorkshire",
@@ -2956,8 +2956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.187221,
-          51.38901
+          0.187714,
+          51.38815
         ]
       },
       "properties": {
@@ -3336,9 +3336,9 @@
         ]
       },
       "properties": {
-        "ref": "/stores/2000009/warrington",
-        "contact:website": "https://www.screwfix.com/stores/2000009/warrington",
-        "name": "Screwfix Warrington",
+        "ref": "/stores/2000009/warrington-kerfoot-street",
+        "contact:website": "https://www.screwfix.com/stores/2000009/warrington-kerfoot-street",
+        "name": "Screwfix Warrington - Kerfoot Street",
         "addr:streetAddress": "Gateway 49 Trade Park",
         "addr:addressLocality": "Warrington",
         "addr:addressRegion": "Cheshire",
@@ -4636,9 +4636,9 @@
         ]
       },
       "properties": {
-        "ref": "/stores/2600001/rochdale-fishwick-street",
-        "contact:website": "https://www.screwfix.com/stores/2600001/rochdale-fishwick-street",
-        "name": "Screwfix Rochdale - Fishwick Street",
+        "ref": "/stores/2600001/rochdale-milnrow-road",
+        "contact:website": "https://www.screwfix.com/stores/2600001/rochdale-milnrow-road",
+        "name": "Screwfix Rochdale - Milnrow Road",
         "addr:streetAddress": "Unit 2-3, Magnum Centre",
         "addr:addressLocality": "Rochdale",
         "addr:addressRegion": "Lancashire",
@@ -12431,6 +12431,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.815441,
+          55.62
+        ]
+      },
+      "properties": {
+        "ref": "/stores/5465/galashiels",
+        "contact:website": "https://www.screwfix.com/stores/5465/galashiels",
+        "name": "Screwfix Galashiels",
+        "addr:streetAddress": "Island Street",
+        "addr:addressLocality": "Galashiels",
+        "addr:addressRegion": "Selkirkshire",
+        "addr:postcode": "TD1 1PA",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.463965,
           50.910385
         ]
@@ -19292,7 +19317,7 @@
         "addr:streetAddress": "Discovery Court",
         "addr:addressLocality": "Lincoln",
         "addr:addressRegion": "East Midlands",
-        "addr:postcode": "LN6 3QZ",
+        "addr:postcode": "LN6 3AJ",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
@@ -19481,8 +19506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.386593,
-          53.718697
+          -1.384254,
+          53.715557
         ]
       },
       "properties": {
@@ -19531,6 +19556,81 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.645294,
+          51.20178
+        ]
+      },
+      "properties": {
+        "ref": "/stores/806/wells",
+        "contact:website": "https://www.screwfix.com/stores/806/wells",
+        "name": "Screwfix Wells",
+        "addr:streetAddress": "Cathedral Avenue",
+        "addr:addressLocality": "Wells",
+        "addr:addressRegion": "Somerset",
+        "addr:postcode": "BA5 1UA",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.077036,
+          51.793076
+        ]
+      },
+      "properties": {
+        "ref": "/stores/808/cross-hands",
+        "contact:website": "https://www.screwfix.com/stores/808/cross-hands",
+        "name": "Screwfix Cross Hands",
+        "addr:streetAddress": "Heol Stanllyd",
+        "addr:addressLocality": "Cross Hands",
+        "addr:addressRegion": "Wales",
+        "addr:postcode": "SA14 6RB",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.479466,
+          53.713886
+        ]
+      },
+      "properties": {
+        "ref": "/stores/809/darwen",
+        "contact:website": "https://www.screwfix.com/stores/809/darwen",
+        "name": "Screwfix Darwen",
+        "addr:streetAddress": "Hulme Court",
+        "addr:addressLocality": "Darwen",
+        "addr:addressRegion": "Lancashire",
+        "addr:postcode": "BB3 0FE",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.648413,
           53.54086
         ]
@@ -19556,8 +19656,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.663034,
-          55.01276
+          1.324105,
+          52.648674
+        ]
+      },
+      "properties": {
+        "ref": "/stores/810/norwich-roundtree-way",
+        "contact:website": "https://www.screwfix.com/stores/810/norwich-roundtree-way",
+        "name": "Screwfix Norwich - Roundtree Way",
+        "addr:streetAddress": "Roundtree Way",
+        "addr:addressLocality": "Norwich",
+        "addr:addressRegion": "Norfolk",
+        "addr:postcode": "NR7 8SG",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66251,
+          55.01187
         ]
       },
       "properties": {
@@ -19668,6 +19793,31 @@
         "addr:addressLocality": "Evesham",
         "addr:addressRegion": "Worcestershire",
         "addr:postcode": "WR11 1XG",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.708976,
+          51.088078
+        ]
+      },
+      "properties": {
+        "ref": "/stores/873/haslemere",
+        "contact:website": "https://www.screwfix.com/stores/873/haslemere",
+        "name": "Screwfix Haslemere",
+        "addr:streetAddress": "High Street",
+        "addr:addressLocality": "Haslemere",
+        "addr:addressRegion": "Surrey",
+        "addr:postcode": "GU27 2HJ",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
@@ -19806,6 +19956,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.854497,
+          57.583748
+        ]
+      },
+      "properties": {
+        "ref": "/stores/900/nairn",
+        "contact:website": "https://www.screwfix.com/stores/900/nairn",
+        "name": "Screwfix Nairn",
+        "addr:streetAddress": "Balmakeith Industrial Estate",
+        "addr:addressLocality": "Nairn",
+        "addr:addressRegion": "Nairnshire",
+        "addr:postcode": "IV12 5QW",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.393226,
           51.670586
         ]
@@ -19843,6 +20018,31 @@
         "addr:addressLocality": "Basildon",
         "addr:addressRegion": "Essex",
         "addr:postcode": "SS14 3GL",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.930759,
+          54.887363
+        ]
+      },
+      "properties": {
+        "ref": "/stores/901/carlisle-currock-road",
+        "contact:website": "https://www.screwfix.com/stores/901/carlisle-currock-road",
+        "name": "Screwfix Carlisle - Currock Road",
+        "addr:streetAddress": "Currock Road",
+        "addr:addressLocality": "Carlisle",
+        "addr:addressRegion": "Cumbria",
+        "addr:postcode": "CA2 5AE",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
