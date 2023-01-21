@@ -4531,6 +4531,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.724671,
+          52.3774
+        ]
+      },
+      "properties": {
+        "ref": "/stores/250/kettering-pytchley-business-park",
+        "contact:website": "https://www.screwfix.com/stores/250/kettering-pytchley-business-park",
+        "name": "Screwfix Kettering - Pytchley Business Park",
+        "addr:streetAddress": "Orion Way",
+        "addr:addressLocality": "Kettering",
+        "addr:addressRegion": "Northamptonshire",
+        "addr:postcode": "NN15 6NP",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.868677,
           53.725124
         ]
@@ -6343,6 +6368,31 @@
         "addr:addressLocality": "Clydebank",
         "addr:addressRegion": "Dunbartonshire",
         "addr:postcode": "G81 1QF",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.457738,
+          53.451195
+        ]
+      },
+      "properties": {
+        "ref": "/stores/3424/sheffield-ecclesfield",
+        "contact:website": "https://www.screwfix.com/stores/3424/sheffield-ecclesfield",
+        "name": "Screwfix Sheffield - Ecclesfield",
+        "addr:streetAddress": "Hydra Business Park",
+        "addr:addressLocality": "Sheffield",
+        "addr:addressRegion": "South Yorkshire",
+        "addr:postcode": "S35 9ZX",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",
@@ -11256,6 +11306,106 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.332056,
+          56.587563
+        ]
+      },
+      "properties": {
+        "ref": "/stores/5031/blairgowrie",
+        "contact:website": "https://www.screwfix.com/stores/5031/blairgowrie",
+        "name": "Screwfix Blairgowrie",
+        "addr:streetAddress": "Welton Industrial Estate",
+        "addr:addressLocality": "Blairgowrie",
+        "addr:addressRegion": "Perth",
+        "addr:postcode": "PH10 6ER",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.043465,
+          50.83902
+        ]
+      },
+      "properties": {
+        "ref": "/stores/5032/portsmouth-farlington",
+        "contact:website": "https://www.screwfix.com/stores/5032/portsmouth-farlington",
+        "name": "Screwfix Portsmouth - Farlington",
+        "addr:streetAddress": "Mountbatten Business Park",
+        "addr:addressLocality": "Portsmouth",
+        "addr:addressRegion": "Hampshire",
+        "addr:postcode": "PO6 1US",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.752217,
+          51.582577
+        ]
+      },
+      "properties": {
+        "ref": "/stores/5034/swindon-hobley-drive",
+        "contact:website": "https://www.screwfix.com/stores/5034/swindon-hobley-drive",
+        "name": "Screwfix Swindon - Hobley Drive",
+        "addr:streetAddress": "I O Centre",
+        "addr:addressLocality": "Swindon - Hobley Drive",
+        "addr:addressRegion": "Swindon",
+        "addr:postcode": "SN3 4JG",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.471977,
+          53.5009
+        ]
+      },
+      "properties": {
+        "ref": "/stores/5039/hoyland",
+        "contact:website": "https://www.screwfix.com/stores/5039/hoyland",
+        "name": "Screwfix Hoyland",
+        "addr:streetAddress": "Dearne Valley Parkway",
+        "addr:addressLocality": "Hoyland",
+        "addr:addressRegion": "South Yorkshire",
+        "addr:postcode": "S74 0SB",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.65803,
           53.73762
         ]
@@ -13414,7 +13564,7 @@
         "ref": "/stores/59/yeovil-pen-mill",
         "contact:website": "https://www.screwfix.com/stores/59/yeovil-pen-mill",
         "name": "Screwfix Yeovil - Pen Mill",
-        "addr:streetAddress": "Oxford Road",
+        "addr:streetAddress": "8 Oxford Road",
         "addr:addressLocality": "Yeovil",
         "addr:addressRegion": "Somerset",
         "addr:postcode": "BA21 5HR",
@@ -19581,6 +19731,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.584211,
+          51.766495
+        ]
+      },
+      "properties": {
+        "ref": "/stores/807/carterton",
+        "contact:website": "https://www.screwfix.com/stores/807/carterton",
+        "name": "Screwfix Carterton",
+        "addr:streetAddress": "Ventura Business Park",
+        "addr:addressLocality": "Carterton",
+        "addr:addressRegion": "Oxfordshire",
+        "addr:postcode": "OX18 1AD",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.077036,
           51.793076
         ]
@@ -19681,8 +19856,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.66251,
-          55.01187
+          -0.639474,
+          53.26317
+        ]
+      },
+      "properties": {
+        "ref": "/stores/811/saxilby",
+        "contact:website": "https://www.screwfix.com/stores/811/saxilby",
+        "name": "Screwfix Saxilby",
+        "addr:streetAddress": "Riverside Enterprise Park",
+        "addr:addressLocality": "Saxilby",
+        "addr:addressRegion": "Licolnshire",
+        "addr:postcode": "LN1 2FU",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.871914,
+          53.776974
+        ]
+      },
+      "properties": {
+        "ref": "/stores/812/kirkham",
+        "contact:website": "https://www.screwfix.com/stores/812/kirkham",
+        "name": "Screwfix Kirkham",
+        "addr:streetAddress": "Kirkham Trading Estate",
+        "addr:addressLocality": "Kirkham",
+        "addr:addressRegion": "Lancashire",
+        "addr:postcode": "PR4 3RB",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66315,
+          55.01277
         ]
       },
       "properties": {
@@ -20043,6 +20268,131 @@
         "addr:addressLocality": "Carlisle",
         "addr:addressRegion": "Cumbria",
         "addr:postcode": "CA2 5AE",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.250568,
+          53.13963
+        ]
+      },
+      "properties": {
+        "ref": "/stores/902/caernarfon",
+        "contact:website": "https://www.screwfix.com/stores/902/caernarfon",
+        "name": "Screwfix Caernarfon",
+        "addr:streetAddress": "Cibyn Industrial Estate",
+        "addr:addressLocality": "Caernarfon",
+        "addr:addressRegion": "Caernarfonshire",
+        "addr:postcode": "LL55 2BD",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.125877,
+          50.86627
+        ]
+      },
+      "properties": {
+        "ref": "/stores/903/brighton-hollingbury",
+        "contact:website": "https://www.screwfix.com/stores/903/brighton-hollingbury",
+        "name": "Screwfix Brighton - Hollingbury",
+        "addr:streetAddress": "Crowhurst Road",
+        "addr:addressLocality": "Brighton",
+        "addr:addressRegion": "Sussex",
+        "addr:postcode": "BN1 8AF",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.020268,
+          52.255898
+        ]
+      },
+      "properties": {
+        "ref": "/stores/904/cambridge-bar-hill",
+        "contact:website": "https://www.screwfix.com/stores/904/cambridge-bar-hill",
+        "name": "Screwfix Cambridge - Bar Hill",
+        "addr:streetAddress": "Trafalgar Way",
+        "addr:addressLocality": "Cambridge",
+        "addr:addressRegion": "Cambridgeshire",
+        "addr:postcode": "CB23 8SQ",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.145622,
+          51.358215
+        ]
+      },
+      "properties": {
+        "ref": "/stores/905/wallington",
+        "contact:website": "https://www.screwfix.com/stores/905/wallington",
+        "name": "Screwfix Wallington",
+        "addr:streetAddress": "31-35 Stafford Road",
+        "addr:addressLocality": "Wallington",
+        "addr:addressRegion": "Sutton",
+        "addr:postcode": "SM6 9AP",
+        "addr:country": "GB",
+        "contact:phone": "03330 112 112",
+        "operator": "Screwfix",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.015006,
+          55.85622
+        ]
+      },
+      "properties": {
+        "ref": "/stores/906/coatbridge",
+        "contact:website": "https://www.screwfix.com/stores/906/coatbridge",
+        "name": "Screwfix Coatbridge",
+        "addr:streetAddress": "North Caldeen Road",
+        "addr:addressLocality": "Coatbridge",
+        "addr:addressRegion": "Lanarkshire",
+        "addr:postcode": "ML5 4EF",
         "addr:country": "GB",
         "contact:phone": "03330 112 112",
         "operator": "Screwfix",

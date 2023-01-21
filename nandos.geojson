@@ -306,7 +306,7 @@
         "addr:postcode": "W1U 6RS",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:00-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -422,21 +422,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.461433,
-          51.569886
+          -0.460598,
+          51.570775
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/basildon-east-square",
+        "contact:website": "https://www.nandos.co.uk/restaurants/basildon-east-square",
+        "name": "Basildon East Square",
+        "addr:streetAddress": "1 East Square, SS14 1HS, ",
+        "addr:addressLocality": "Basildon",
+        "addr:addressRegion": "Essex",
+        "addr:postcode": "SS14 1HS",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.460598,
+          51.570775
         ]
       },
       "properties": {
         "ref": "/restaurants/basildon-eastgate",
         "contact:website": "https://www.nandos.co.uk/restaurants/basildon-eastgate",
-        "name": "Basildon - Eastgate",
-        "addr:streetAddress": "Southernhay, Unit 6, Eastgate Shopping Centre, Basildon, SS14 1EB, ",
-        "addr:addressLocality": "Essex",
+        "name": "Basildon East Square",
+        "addr:streetAddress": "1 East Square, SS14 1HS, ",
+        "addr:addressLocality": "Basildon",
         "addr:addressRegion": "Essex",
-        "addr:postcode": "SS14 1EB",
+        "addr:postcode": "SS14 1HS",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Sa 11:30-18:00, Su 11:30-16:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -1630,6 +1656,32 @@
         "addr:addressLocality": "Essex",
         "addr:addressRegion": "Essex",
         "addr:postcode": "CM14 4RR",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.577685,
+          51.531899
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/bridgend",
+        "contact:website": "https://www.nandos.co.uk/restaurants/bridgend",
+        "name": "Bridgend",
+        "addr:streetAddress": "A4061, Food Court, McArthur Glen Designer Outlet, Derwen, Bridgend, CF32 9SU, ",
+        "addr:addressLocality": "",
+        "addr:addressRegion": "GB",
+        "addr:postcode": "CF32 9SU",
         "addr:country": "",
         "contact:phone": "",
         "opening_hours": "Mo-Su 11:30-22:00",
@@ -3972,7 +4024,7 @@
         "addr:postcode": "SW5 9QF",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo 11:30-19:00, Tu-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -4648,7 +4700,7 @@
         "addr:postcode": "KY11 8EX",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su closed",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -4804,7 +4856,7 @@
         "addr:postcode": "RH6 0NP",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 04:30-21:30",
+        "opening_hours": "Mo-Su 04:30-20:30",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -5116,7 +5168,7 @@
         "addr:postcode": "GL1 5SH",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Sa 11:30-22:00, Su 11:30-16:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -6442,7 +6494,7 @@
         "addr:postcode": "LA1 1HZ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Sa 11:30-22:00, Su 11:30-18:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -7119,7 +7171,7 @@
         "addr:postcode": "IG10 1AA",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo CLOSED-21:30, Tu-Su 11:30-21:30",
+        "opening_hours": "Mo-Su 11:30-21:30",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -7535,7 +7587,7 @@
         "addr:postcode": "DY5 1SJ",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo 11:30-17:00, Tu-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -7833,32 +7885,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.577685,
-          51.531899
-        ]
-      },
-      "properties": {
-        "ref": "/restaurants/nandos-bridgend",
-        "contact:website": "https://www.nandos.co.uk/restaurants/nandos-bridgend",
-        "name": "Nando\u2019s Bridgend",
-        "addr:streetAddress": "A4061, Food Court, McArthur Glen Designer Outlet, Derwen, Bridgend, CF32 9SU, ",
-        "addr:addressLocality": "",
-        "addr:addressRegion": "GB",
-        "addr:postcode": "CF32 9SU",
-        "addr:country": "",
-        "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
-        "cuisine": "chicken;portuguese",
-        "brand": "Nando's",
-        "brand:wikidata": "Q3472954",
-        "amenity": "restaurant"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.349597,
           53.465302
         ]
@@ -7873,7 +7899,7 @@
         "addr:postcode": "M17 8AA",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo-Th 11:30-22:00, Fr 11:30-23:00, Sa-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -8472,7 +8498,7 @@
         "addr:postcode": "OL2 5HX",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Th 11:30-22:00, Fr 11:30-20:00, Sa-Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -8862,7 +8888,7 @@
         "addr:postcode": "PO1 3TR",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -8992,7 +9018,7 @@
         "addr:postcode": "RG2 0QG",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -9824,7 +9850,7 @@
         "addr:postcode": "SO14 7DU",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -9836,8 +9862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.407264,
-          50.903529
+          -1.407286,
+          50.902257
         ]
       },
       "properties": {
@@ -9862,8 +9888,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.407286,
-          50.902257
+          -1.407264,
+          50.903529
         ]
       },
       "properties": {
@@ -9902,7 +9928,7 @@
         "addr:postcode": "SS1 1NT",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-11:00, Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10032,7 +10058,7 @@
         "addr:postcode": "E1 6NF",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Su 11:30-22:00",
+        "opening_hours": "Mo closed, Tu-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -10631,6 +10657,32 @@
         "addr:country": "",
         "contact:phone": "",
         "opening_hours": "Mo-Su 11:30-22:00",
+        "cuisine": "chicken;portuguese",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.926587,
+          51.64364
+        ]
+      },
+      "properties": {
+        "ref": "/restaurants/swansea-morfa-retail-park",
+        "contact:website": "https://www.nandos.co.uk/restaurants/swansea-morfa-retail-park",
+        "name": "Swansea - Morfa Retail Park",
+        "addr:streetAddress": "Unit 17b, Morfa Shopping Park, Brunel Way, SA1 7BP, ",
+        "addr:addressLocality": "Swansea",
+        "addr:addressRegion": "Wales",
+        "addr:postcode": "SA1 7BP",
+        "addr:country": "",
+        "contact:phone": "",
+        "opening_hours": "Mo-Su -",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
@@ -11462,7 +11514,7 @@
         "addr:postcode": "HA9 6AH",
         "addr:country": "",
         "contact:phone": "",
-        "opening_hours": "Mo-Tu 11:30-22:00, We 11:30-19:50, Th 11:30-22:00, Fr 11:30-19:10, Sa-Su 11:30-22:00",
+        "opening_hours": "Mo-Su 11:30-22:00",
         "cuisine": "chicken;portuguese",
         "brand": "Nando's",
         "brand:wikidata": "Q3472954",
