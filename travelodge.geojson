@@ -211,7 +211,7 @@
         "ref": "106/Bangor",
         "contact:website": "https://www.travelodge.co.uk/hotels/106/Bangor",
         "name": "Travelodge Bangor",
-        "addr:streetAddress": "A5 / A55 Junction, , Llys-y-gwynt, ",
+        "addr:streetAddress": "A5 / A55 Junction, Llys-y-gwynt",
         "addr:addressLocality": "Bangor",
         "addr:postcode": "LL57 4BG",
         "addr:country": "GB",
@@ -407,8 +407,8 @@
         "ref": "112/Birmingham-Hilton-Park-M6-Southbound",
         "contact:website": "https://www.travelodge.co.uk/hotels/112/Birmingham-Hilton-Park-M6-Southbound",
         "name": "Travelodge Birmingham Hilton Park M6 Southbound",
-        "addr:streetAddress": "Moto Service Area, M6 Motorway, Essington, Nr. Wolverhampton",
-        "addr:addressLocality": "Birmingham",
+        "addr:streetAddress": "Moto Service Area, M6 Motorway, Essington, Wolverhampton",
+        "addr:addressLocality": "Wolverhampton",
         "addr:postcode": "WV11 2AT",
         "addr:country": "GB",
         "contact:phone": "08719 846066",
@@ -547,8 +547,8 @@
         "ref": "119/Burton-A38-Southbound",
         "contact:website": "https://www.travelodge.co.uk/hotels/119/Burton-A38-Southbound",
         "name": "Travelodge Burton A38 Southbound",
-        "addr:streetAddress": "A38 Graycar Business Park, Barton-under-Needwood, Burton-upon-Trent",
-        "addr:addressLocality": "Burton",
+        "addr:streetAddress": "A38 Graycar Business Park, Barton-under-Needwood",
+        "addr:addressLocality": "Burton-upon-Trent",
         "addr:postcode": "DE13 8EH",
         "addr:country": "GB",
         "contact:phone": "08719 846068",
@@ -575,7 +575,7 @@
         "ref": "12/Bicester-Cherwell-Valley-M40",
         "contact:website": "https://www.travelodge.co.uk/hotels/12/Bicester-Cherwell-Valley-M40",
         "name": "Travelodge Bicester Cherwell Valley M40",
-        "addr:streetAddress": "Moto Service Area, M40 Motorway, Northampton Road, Ardley, Cherwell Valley",
+        "addr:streetAddress": "Moto Service Area, M40 Motorway, Northampton Road, Ardley, Cherwell Valley, Bicester",
         "addr:addressLocality": "Bicester",
         "addr:postcode": "OX27 7RD",
         "addr:country": "GB",
@@ -603,8 +603,8 @@
         "ref": "120/Burton-A38-Northbound",
         "contact:website": "https://www.travelodge.co.uk/hotels/120/Burton-A38-Northbound",
         "name": "Travelodge Burton A38 Northbound",
-        "addr:streetAddress": "A38 Northbound, Barton-under-Needwood, Burton-upon-Trent",
-        "addr:addressLocality": "Burton",
+        "addr:streetAddress": "A38 Northbound, Barton-under-Needwood",
+        "addr:addressLocality": "Burton-upon-Trent",
         "addr:postcode": "DE13 8EH",
         "addr:country": "GB",
         "contact:phone": "08719 846069",
@@ -735,6 +735,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.307974,
+          52.822016
+        ]
+      },
+      "properties": {
+        "ref": "126/Nottingham-EM-Airport-Donington-Park-M1",
+        "contact:website": "https://www.travelodge.co.uk/hotels/126/Nottingham-EM-Airport-Donington-Park-M1",
+        "name": "Travelodge Nottingham EM Airport Donington Park M1",
+        "addr:streetAddress": "Moto Service Area, M1 J.23a Northbound J.24 Southbound",
+        "addr:addressLocality": "Derby",
+        "addr:postcode": "DE74 2TN",
+        "addr:country": "GB",
+        "contact:phone": "08719 846073",
+        "facilities": [
+          "WiFi",
+          "Free parking onsite"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1263,
+          52.28395
+        ]
+      },
+      "properties": {
+        "ref": "127/Droitwich",
+        "contact:website": "https://www.travelodge.co.uk/hotels/127/Droitwich",
+        "name": "Travelodge Droitwich",
+        "addr:streetAddress": "A38 Rashwood Hill",
+        "addr:addressLocality": "Droitwich",
+        "addr:postcode": "WR9 0BJ Use WR9 0BS",
+        "addr:country": "GB",
+        "contact:phone": "08719 846074",
+        "facilities": [
+          "WiFi",
+          "Free parking onsite"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.60943,
           52.802324
         ]
@@ -799,8 +855,8 @@
         "ref": "13/Billingshurst-Five-Oaks",
         "contact:website": "https://www.travelodge.co.uk/hotels/13/Billingshurst-Five-Oaks",
         "name": "Travelodge Billingshurst Five Oaks",
-        "addr:streetAddress": "A29 Stane Street, Five Oaks",
-        "addr:addressLocality": "Billingshurst",
+        "addr:streetAddress": "A29 Stane Street, Five Oaks, Billingshurst",
+        "addr:addressLocality": "Billinghurst",
         "addr:postcode": "RH14 9AE",
         "addr:country": "GB",
         "contact:phone": "08719 846013",
@@ -855,7 +911,7 @@
         "ref": "132/Halifax",
         "contact:website": "https://www.travelodge.co.uk/hotels/132/Halifax",
         "name": "Travelodge Halifax",
-        "addr:streetAddress": "Gate 9, Dean Clough Industrial Park, ",
+        "addr:streetAddress": "Gate 9, Dean Clough Industrial Park",
         "addr:addressLocality": "Halifax",
         "addr:postcode": "HX3 5AY",
         "addr:country": "GB",
@@ -883,7 +939,7 @@
         "ref": "133/Halkyn",
         "contact:website": "https://www.travelodge.co.uk/hotels/133/Halkyn",
         "name": "Travelodge Halkyn",
-        "addr:streetAddress": "A55, Halkyn, Flintshire",
+        "addr:streetAddress": "A55, Flintshire",
         "addr:addressLocality": "Halkyn",
         "addr:postcode": "CH8 8DF",
         "addr:country": "GB",
@@ -939,7 +995,7 @@
         "ref": "137/Hull-South-Cave",
         "contact:website": "https://www.travelodge.co.uk/hotels/137/Hull-South-Cave",
         "name": "Travelodge Hull South Cave",
-        "addr:streetAddress": "A63 Eastbound, Beacon Service Area, , South Cave",
+        "addr:streetAddress": "A63 Eastbound, Beacon Service Area, South Cave",
         "addr:addressLocality": "Hull",
         "addr:postcode": "HU15 1SA",
         "addr:country": "GB",
@@ -1107,8 +1163,8 @@
         "ref": "143/The-Regent-Hotel-Leamington-Spa",
         "contact:website": "https://www.travelodge.co.uk/hotels/143/The-Regent-Hotel-Leamington-Spa",
         "name": "Travelodge The Regent Hotel Leamington Spa",
-        "addr:streetAddress": "The Parade, Leamington Spa",
-        "addr:addressLocality": "The",
+        "addr:streetAddress": "The Parade",
+        "addr:addressLocality": "Leamington Spa",
         "addr:postcode": "CV32 4AT",
         "addr:country": "GB",
         "contact:phone": "08719 846239",
@@ -1362,7 +1418,7 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/154/Manchester-Birch-M62-Eastbound",
         "name": "Travelodge Manchester Birch M62 Eastbound",
         "addr:streetAddress": "Moto Service Area, Birch, M62 Motorway",
-        "addr:addressLocality": "Manchester",
+        "addr:addressLocality": "Heywood",
         "addr:postcode": "OL10 2QH",
         "addr:country": "GB",
         "contact:phone": "08719 846262",
@@ -1473,8 +1529,8 @@
         "ref": "160/Chester-Northop-Hall",
         "contact:website": "https://www.travelodge.co.uk/hotels/160/Chester-Northop-Hall",
         "name": "Travelodge Chester Northop Hall",
-        "addr:streetAddress": "A55 Eastbound Expressway, Northop Hall, Mold",
-        "addr:addressLocality": "Chester",
+        "addr:streetAddress": "A55 Eastbound Expressway, Northop Hall",
+        "addr:addressLocality": "Mold",
         "addr:postcode": "CH7 6HF",
         "addr:country": "GB",
         "contact:phone": "08719 846091",
@@ -1585,8 +1641,8 @@
         "ref": "164/Birmingham-Oldbury",
         "contact:website": "https://www.travelodge.co.uk/hotels/164/Birmingham-Oldbury",
         "name": "Travelodge Birmingham Oldbury",
-        "addr:streetAddress": "A4123 Wolverhampton Road, Oldbury",
-        "addr:addressLocality": "Birmingham",
+        "addr:streetAddress": "A4123 Wolverhampton Road",
+        "addr:addressLocality": "Oldbury",
         "addr:postcode": "B69 2BH",
         "addr:country": "GB",
         "contact:phone": "08719 846095",
@@ -1697,8 +1753,8 @@
         "ref": "17/Brentwood-East-Horndon",
         "contact:website": "https://www.travelodge.co.uk/hotels/17/Brentwood-East-Horndon",
         "name": "Travelodge Brentwood East Horndon",
-        "addr:streetAddress": "A127 East Horndon, East Horndon",
-        "addr:addressLocality": "Brentwood",
+        "addr:streetAddress": "A127 East Horndon",
+        "addr:addressLocality": "East Horndon",
         "addr:postcode": "CM13 3LL",
         "addr:country": "GB",
         "contact:phone": "08719 846016",
@@ -1730,34 +1786,6 @@
         "addr:postcode": "PR6 7JB",
         "addr:country": "GB",
         "contact:phone": "08719 846172",
-        "facilities": [
-          "WiFi",
-          "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.925475,
-          53.254899
-        ]
-      },
-      "properties": {
-        "ref": "171/Retford-Markham-Moor",
-        "contact:website": "https://www.travelodge.co.uk/hotels/171/Retford-Markham-Moor",
-        "name": "Travelodge Retford Markham Moor",
-        "addr:streetAddress": "A1 Northbound, Markham Moor",
-        "addr:addressLocality": "Retford",
-        "addr:postcode": "DN22 0QU",
-        "addr:country": "GB",
-        "contact:phone": "08719 846098",
         "facilities": [
           "WiFi",
           "Free parking onsite"
@@ -2034,8 +2062,8 @@
         "ref": "181/Birmingham-Sutton-Coldfield",
         "contact:website": "https://www.travelodge.co.uk/hotels/181/Birmingham-Sutton-Coldfield",
         "name": "Travelodge Birmingham Sutton Coldfield",
-        "addr:streetAddress": "B4142, Boldmere Road, Sutton Coldfield",
-        "addr:addressLocality": "Birmingham",
+        "addr:streetAddress": "B4142, Boldmere Road",
+        "addr:addressLocality": "Sutton Coldfield",
         "addr:postcode": "B73 5UP",
         "addr:country": "GB",
         "contact:phone": "08719 846108",
@@ -2118,8 +2146,8 @@
         "ref": "184/Kettering-Thrapston",
         "contact:website": "https://www.travelodge.co.uk/hotels/184/Kettering-Thrapston",
         "name": "Travelodge Kettering Thrapston",
-        "addr:streetAddress": "Junction 13, A14 Eastbound, Thrapston Bypass, Thrapston",
-        "addr:addressLocality": "Kettering",
+        "addr:streetAddress": "Junction 13, A14 Eastbound, Thrapston Bypass",
+        "addr:addressLocality": "Thrapston",
         "addr:postcode": "NN14 4UR",
         "addr:country": "GB",
         "contact:phone": "08719 846111",
@@ -2425,7 +2453,7 @@
         "ref": "198/Burton-M6-Northbound",
         "contact:website": "https://www.travelodge.co.uk/hotels/198/Burton-M6-Northbound",
         "name": "Travelodge Burton M6 Northbound",
-        "addr:streetAddress": "Moto Service Area, M6 Motorway, , Burton, Carnforth",
+        "addr:streetAddress": "Moto Service Area, M6 Motorway, Burton, Carnforth",
         "addr:addressLocality": "Burton",
         "addr:postcode": "LA6 1JF",
         "addr:country": "GB",
@@ -2509,8 +2537,8 @@
         "ref": "20/Cambridge-Swavesey",
         "contact:website": "https://www.travelodge.co.uk/hotels/20/Cambridge-Swavesey",
         "name": "Travelodge Cambridge Swavesey",
-        "addr:streetAddress": "Huntingdon Road (A14), Swavesey",
-        "addr:addressLocality": "Cambridge",
+        "addr:streetAddress": "Huntingdon Road (A14)",
+        "addr:addressLocality": "Swavesey",
         "addr:postcode": "CB24 4RE",
         "addr:country": "GB",
         "contact:phone": "08719 846021",
@@ -2565,7 +2593,7 @@
         "ref": "201/Dumbarton",
         "contact:website": "https://www.travelodge.co.uk/hotels/201/Dumbarton",
         "name": "Travelodge Dumbarton",
-        "addr:streetAddress": "A82 Stirling Road, Milton, Dumbarton, Nr Glasgow",
+        "addr:streetAddress": "A82 Stirling Road, Milton, Glasgow",
         "addr:addressLocality": "Dumbarton",
         "addr:postcode": "G82 2TZ",
         "addr:country": "GB",
@@ -2593,7 +2621,7 @@
         "ref": "202/Dumfries",
         "contact:website": "https://www.travelodge.co.uk/hotels/202/Dumfries",
         "name": "Travelodge Dumfries",
-        "addr:streetAddress": "A75, Annan Road, Collin, Dumfries & Galloway",
+        "addr:streetAddress": "A75, Annan Road, Collin",
         "addr:addressLocality": "Dumfries",
         "addr:postcode": "DG1 3SE",
         "addr:country": "GB",
@@ -2678,7 +2706,7 @@
         "ref": "207/Edinburgh-Dreghorn",
         "contact:website": "https://www.travelodge.co.uk/hotels/207/Edinburgh-Dreghorn",
         "name": "Travelodge Edinburgh Dreghorn",
-        "addr:streetAddress": "46 Dreghorn Link, , A720 City Bypass, ",
+        "addr:streetAddress": "46 Dreghorn Link, A720 City Bypass",
         "addr:addressLocality": "Edinburgh",
         "addr:postcode": "EH13 9QR",
         "addr:country": "GB",
@@ -2764,11 +2792,39 @@
         "ref": "21/Canterbury-Whitstable",
         "contact:website": "https://www.travelodge.co.uk/hotels/21/Canterbury-Whitstable",
         "name": "Travelodge Canterbury Whitstable",
-        "addr:streetAddress": "A299 Thanet Way, Faversham",
-        "addr:addressLocality": "Canterbury",
+        "addr:streetAddress": "A299 Thanet Way",
+        "addr:addressLocality": "Faversham",
         "addr:postcode": "ME13 9EL",
         "addr:country": "GB",
         "contact:phone": "08719 846022",
+        "facilities": [
+          "WiFi",
+          "Free parking onsite"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.272147,
+          55.85283
+        ]
+      },
+      "properties": {
+        "ref": "210/Glasgow-Paisley-Road",
+        "contact:website": "https://www.travelodge.co.uk/hotels/210/Glasgow-Paisley-Road",
+        "name": "Travelodge Glasgow Paisley Road",
+        "addr:streetAddress": "251 Paisley Road",
+        "addr:addressLocality": "Glasgow",
+        "addr:postcode": "G5 8RA",
+        "addr:country": "GB",
+        "contact:phone": "08719 846142",
         "facilities": [
           "WiFi",
           "Free parking onsite"
@@ -2848,7 +2904,7 @@
         "ref": "213/Kinross-M90",
         "contact:website": "https://www.travelodge.co.uk/hotels/213/Kinross-M90",
         "name": "Travelodge Kinross M90",
-        "addr:streetAddress": "M90 Junction 6, Turfhills Tourist Centre, ",
+        "addr:streetAddress": "M90 Junction 6, Turfhills Tourist Centre",
         "addr:addressLocality": "Kinross",
         "addr:postcode": "KY13 0NQ",
         "addr:country": "GB",
@@ -2905,7 +2961,7 @@
         "ref": "216/Newcastle-Whitemare-Pool",
         "contact:website": "https://www.travelodge.co.uk/hotels/216/Newcastle-Whitemare-Pool",
         "name": "Travelodge Newcastle Whitemare Pool",
-        "addr:streetAddress": "A194 Wardley, Whitemare Pool, Nr. Gateshead",
+        "addr:streetAddress": "A194 Wardley, Whitemare Pool, Gateshead",
         "addr:addressLocality": "Newcastle",
         "addr:postcode": "NE10 8YB",
         "addr:country": "GB",
@@ -2990,38 +3046,10 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/219/Scotch-Corner-A1-Southbound",
         "name": "Travelodge Scotch Corner A1 Southbound",
         "addr:streetAddress": "Moto Service Area, Middleton Tyas Lane, Scotch Corner (A1/A66)",
-        "addr:addressLocality": "Scotch",
+        "addr:addressLocality": "Scotch Corner",
         "addr:postcode": "DL10 6PQ",
         "addr:country": "GB",
         "contact:phone": "08719 846176",
-        "facilities": [
-          "WiFi",
-          "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.994845,
-          51.28896
-        ]
-      },
-      "properties": {
-        "ref": "22/Canterbury-Dunkirk",
-        "contact:website": "https://www.travelodge.co.uk/hotels/22/Canterbury-Dunkirk",
-        "name": "Travelodge Canterbury Dunkirk",
-        "addr:streetAddress": "Gate Service Area, Dunkirk",
-        "addr:addressLocality": "Canterbury",
-        "addr:postcode": "ME13 9LN",
-        "addr:country": "GB",
-        "contact:phone": "08719 846023",
         "facilities": [
           "WiFi",
           "Free parking onsite"
@@ -3045,7 +3073,7 @@
         "ref": "220/Sedgefield",
         "contact:website": "https://www.travelodge.co.uk/hotels/220/Sedgefield",
         "name": "Travelodge Sedgefield",
-        "addr:streetAddress": "A177 / A689 Roundabout, Sedgefield, Stockton-on-Tees",
+        "addr:streetAddress": "A177 / A689 Roundabout, Stockton-on-Tees",
         "addr:addressLocality": "Sedgefield",
         "addr:postcode": "TS21 2JX",
         "addr:country": "GB",
@@ -3073,8 +3101,8 @@
         "ref": "221/Scotch-Corner-Skeeby",
         "contact:website": "https://www.travelodge.co.uk/hotels/221/Scotch-Corner-Skeeby",
         "name": "Travelodge Scotch Corner Skeeby",
-        "addr:streetAddress": "A1 Scotch Corner, , Skeeby, Nr Richmond",
-        "addr:addressLocality": "Scotch",
+        "addr:streetAddress": "A1 Scotch Corner, Skeeby, Richmond",
+        "addr:addressLocality": "Scotch Corner",
         "addr:postcode": "DL10 5EQ",
         "addr:country": "GB",
         "contact:phone": "08719 846173",
@@ -3157,7 +3185,7 @@
         "ref": "233/Chichester-Emsworth",
         "contact:website": "https://www.travelodge.co.uk/hotels/233/Chichester-Emsworth",
         "name": "Travelodge Chichester Emsworth",
-        "addr:streetAddress": "A27 Eastbound, Emsworth, Nr. Havant",
+        "addr:streetAddress": "A27 Eastbound, Emsworth, Havant",
         "addr:addressLocality": "Chichester",
         "addr:postcode": "PO10 7RB",
         "addr:country": "GB",
@@ -3270,7 +3298,7 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/241/Manchester-Birch-M62-Westbound",
         "name": "Travelodge Manchester Birch M62 Westbound",
         "addr:streetAddress": "Moto Service Area, Birch, M62 Motorway",
-        "addr:addressLocality": "Manchester",
+        "addr:addressLocality": "Heywood",
         "addr:postcode": "OL10 2QH",
         "addr:country": "GB",
         "contact:phone": "08719 846161",
@@ -3558,8 +3586,8 @@
         "contact:phone": "08719 846256",
         "facilities": [
           "WiFi",
-          "Bar Cafe",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -3665,8 +3693,8 @@
         "ref": "263/Barrow-in-Furness",
         "contact:website": "https://www.travelodge.co.uk/hotels/263/Barrow-in-Furness",
         "name": "Travelodge Barrow in Furness",
-        "addr:streetAddress": "Cocken Villa, Walney Road",
-        "addr:addressLocality": "Barrow-in-Furness",
+        "addr:streetAddress": "Cocken Villa, Walney Road, Barrow-in-Furness",
+        "addr:addressLocality": "Barrow in Furness",
         "addr:postcode": "LA14 5UG",
         "addr:country": "GB",
         "contact:phone": "08719 846281",
@@ -3826,34 +3854,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.731489,
-          51.853034
-        ]
-      },
-      "properties": {
-        "ref": "27/Colchester-Feering",
-        "contact:website": "https://www.travelodge.co.uk/hotels/27/Colchester-Feering",
-        "name": "Travelodge Colchester Feering",
-        "addr:streetAddress": "A12 London Road Northbound, Feering",
-        "addr:addressLocality": "Colchester",
-        "addr:postcode": "CO5 9EL",
-        "addr:country": "GB",
-        "contact:phone": "08719 846029",
-        "facilities": [
-          "WiFi",
-          "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.11394,
           51.526868
         ]
@@ -3868,9 +3868,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846274",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -3924,34 +3924,6 @@
         "addr:postcode": "MK41 7PH",
         "addr:country": "GB",
         "contact:phone": "08719 846276",
-        "facilities": [
-          "WiFi",
-          "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.146424,
-          56.183926
-        ]
-      },
-      "properties": {
-        "ref": "274/Glenrothes",
-        "contact:website": "https://www.travelodge.co.uk/hotels/274/Glenrothes",
-        "name": "Travelodge Glenrothes",
-        "addr:streetAddress": "Bank Head Gate, Bank Head Park",
-        "addr:addressLocality": "Glenrothes",
-        "addr:postcode": "KY7 6GH",
-        "addr:country": "GB",
-        "contact:phone": "08719 846278",
         "facilities": [
           "WiFi",
           "Free parking onsite"
@@ -4253,6 +4225,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.717979,
+          52.746528
+        ]
+      },
+      "properties": {
+        "ref": "289/Shrewsbury-Battlefield",
+        "contact:website": "https://www.travelodge.co.uk/hotels/289/Shrewsbury-Battlefield",
+        "name": "Travelodge Shrewsbury Battlefield",
+        "addr:streetAddress": "Battlefield Roundabout, Junction A49 and A53",
+        "addr:addressLocality": "Shrewsbury",
+        "addr:postcode": "SY4 3EQ",
+        "addr:country": "GB",
+        "contact:phone": "08719 846120",
+        "facilities": [
+          "WiFi",
+          "Free parking onsite"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.552514,
           52.637528
         ]
@@ -4262,7 +4262,7 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/29/Great-Yarmouth-Acle",
         "name": "Travelodge Great Yarmouth Acle",
         "addr:streetAddress": "A47 Roundabout, Acle Bypass, Acle",
-        "addr:addressLocality": "Great",
+        "addr:addressLocality": "Great Yarmouth",
         "addr:postcode": "NR13 3BE",
         "addr:country": "GB",
         "contact:phone": "08719 846032",
@@ -4318,8 +4318,8 @@
         "ref": "291/Lutterworth",
         "contact:website": "https://www.travelodge.co.uk/hotels/291/Lutterworth",
         "name": "Travelodge Lutterworth",
-        "addr:streetAddress": "Rugby Road",
-        "addr:addressLocality": "Lutterworth",
+        "addr:streetAddress": "Rugby Road, Lutterworth",
+        "addr:addressLocality": "Leicester",
         "addr:postcode": "LE17 4BP",
         "addr:country": "GB",
         "contact:phone": "08719 846182",
@@ -4686,8 +4686,8 @@
         "ref": "308/London-Feltham",
         "contact:website": "https://www.travelodge.co.uk/hotels/308/London-Feltham",
         "name": "Travelodge London Feltham",
-        "addr:streetAddress": "Res Centre, High Street, Feltham",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "Res Centre, High Street",
+        "addr:addressLocality": "Feltham",
         "addr:postcode": "TW13 4GU",
         "addr:country": "GB",
         "contact:phone": "08719 846319",
@@ -4764,34 +4764,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.164051,
-          51.522177
-        ]
-      },
-      "properties": {
-        "ref": "312/London-Central-Marylebone",
-        "contact:website": "https://www.travelodge.co.uk/hotels/312/London-Central-Marylebone",
-        "name": "Travelodge London Central Marylebone",
-        "addr:streetAddress": "Harewood Row, Marylebone",
-        "addr:addressLocality": "London",
-        "addr:postcode": "NW1 6SE",
-        "addr:country": "GB",
-        "contact:phone": "08719 846311",
-        "facilities": [
-          "WiFi",
-          "Chargeable parking nearby"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.18094,
           51.579106
         ]
@@ -4800,8 +4772,8 @@
         "ref": "313/London-Romford",
         "contact:website": "https://www.travelodge.co.uk/hotels/313/London-Romford",
         "name": "Travelodge London Romford",
-        "addr:streetAddress": "St Edwards Way, Market Place, Romford",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "St Edwards Way, Market Place",
+        "addr:addressLocality": "Romford",
         "addr:postcode": "RM1 1XJ",
         "addr:country": "GB",
         "contact:phone": "08719 846255",
@@ -4857,8 +4829,8 @@
         "ref": "315/Stansted-Great-Dunmow",
         "contact:website": "https://www.travelodge.co.uk/hotels/315/Stansted-Great-Dunmow",
         "name": "Travelodge Stansted Great Dunmow",
-        "addr:streetAddress": "Chelmsford Road, Great Dunmow",
-        "addr:addressLocality": "Stansted",
+        "addr:streetAddress": "Chelmsford Road",
+        "addr:addressLocality": "Great Dunmow",
         "addr:postcode": "CM6 1LW",
         "addr:country": "GB",
         "contact:phone": "08719 846313",
@@ -4921,9 +4893,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846245",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -4944,43 +4916,14 @@
         "ref": "32/Hellingly-Eastbourne",
         "contact:website": "https://www.travelodge.co.uk/hotels/32/Hellingly-Eastbourne",
         "name": "Travelodge Hellingly Eastbourne",
-        "addr:streetAddress": "A22 Boship Farm Roundabout, Hellingly, Near Hailsham",
-        "addr:addressLocality": "Hellingly",
+        "addr:streetAddress": "A22 Boship Farm Roundabout, Hellingly, Hailsham",
+        "addr:addressLocality": "Eastbourne",
         "addr:postcode": "BN27 4DP",
         "addr:country": "GB",
         "contact:phone": "08719 846035",
         "facilities": [
           "WiFi",
           "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.397782,
-          51.654978
-        ]
-      },
-      "properties": {
-        "ref": "320/Watford-Central",
-        "contact:website": "https://www.travelodge.co.uk/hotels/320/Watford-Central",
-        "name": "Travelodge Watford Central",
-        "addr:streetAddress": "23-25 Market Street",
-        "addr:addressLocality": "Watford",
-        "addr:postcode": "WD18 0PA",
-        "addr:country": "GB",
-        "contact:phone": "08719 846320",
-        "facilities": [
-          "WiFi",
-          "Chargeable parking nearby",
-          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -5344,8 +5287,8 @@
         "ref": "334/Margate-Westwood",
         "contact:website": "https://www.travelodge.co.uk/hotels/334/Margate-Westwood",
         "name": "Travelodge Margate Westwood",
-        "addr:streetAddress": "Unit 53 Westwood Cross Retail Park, Ramsgate",
-        "addr:addressLocality": "Margate",
+        "addr:streetAddress": "Unit 53 Westwood Cross Retail Park",
+        "addr:addressLocality": "Ramsgate",
         "addr:postcode": "CT10 2BF",
         "addr:country": "GB",
         "contact:phone": "08719 846341",
@@ -5430,13 +5373,42 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/34/Heathrow-Heston-M4-Eastbound",
         "name": "Travelodge Heathrow Heston M4 Eastbound",
         "addr:streetAddress": "M4 Moto service area, J2/J3 Eastbound, North Hyde Lane",
-        "addr:addressLocality": "Heathrow",
+        "addr:addressLocality": "Hounslow",
         "addr:postcode": "TW5 9NA",
         "addr:country": "GB",
         "contact:phone": "08719 846037",
         "facilities": [
           "WiFi",
           "Free parking onsite"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087032,
+          51.52249
+        ]
+      },
+      "properties": {
+        "ref": "340/London-Central-City-Road",
+        "contact:website": "https://www.travelodge.co.uk/hotels/340/London-Central-City-Road",
+        "name": "Travelodge London Central City Road",
+        "addr:streetAddress": "1-23 City Road",
+        "addr:addressLocality": "London",
+        "addr:postcode": "EC1Y 1AG",
+        "addr:country": "GB",
+        "contact:phone": "08719 846333",
+        "facilities": [
+          "WiFi",
+          "Chargeable parking nearby",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -5463,9 +5435,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846352",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -5492,9 +5464,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846332",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -5516,7 +5488,7 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/346/Sunbury-M3",
         "name": "Travelodge Sunbury M3",
         "addr:streetAddress": "Hanworth Road, Sunbury On Thames",
-        "addr:addressLocality": "Sunbury",
+        "addr:addressLocality": "",
         "addr:postcode": "TW16 5DA",
         "addr:country": "GB",
         "contact:phone": "08719 846356",
@@ -5544,8 +5516,8 @@
         "ref": "347/Holyhead",
         "contact:website": "https://www.travelodge.co.uk/hotels/347/Holyhead",
         "name": "Travelodge Holyhead",
-        "addr:streetAddress": "Kingsland Road, Holyhead, Anglesey",
-        "addr:addressLocality": "Holyhead",
+        "addr:streetAddress": "Kingsland Road, Holyhead",
+        "addr:addressLocality": "Anglesey",
         "addr:postcode": "LL65 2LB",
         "addr:country": "GB",
         "contact:phone": "08719 846342",
@@ -5600,7 +5572,7 @@
         "ref": "35/Hickstead",
         "contact:website": "https://www.travelodge.co.uk/hotels/35/Hickstead",
         "name": "Travelodge Hickstead",
-        "addr:streetAddress": "Jobs Lane off A23 Southbound, Nr Burgess Hill",
+        "addr:streetAddress": "Jobs Lane off A23 Southbound, Burgess Hill",
         "addr:addressLocality": "Hickstead",
         "addr:postcode": "RH17 5NZ",
         "addr:country": "GB",
@@ -5743,8 +5715,8 @@
         "ref": "354/Tunbridge-Wells",
         "contact:website": "https://www.travelodge.co.uk/hotels/354/Tunbridge-Wells",
         "name": "Travelodge Tunbridge Wells",
-        "addr:streetAddress": "Mount Ephraim",
-        "addr:addressLocality": "Tunbridge wells",
+        "addr:streetAddress": "Mount Ephraim, Tunbridge wells",
+        "addr:addressLocality": "Tunbridge Wells",
         "addr:postcode": "TN4 8BU",
         "addr:country": "GB",
         "contact:phone": "08719 846381",
@@ -5830,8 +5802,8 @@
         "ref": "36/Huntingdon-Fenstanton",
         "contact:website": "https://www.travelodge.co.uk/hotels/36/Huntingdon-Fenstanton",
         "name": "Travelodge Huntingdon Fenstanton",
-        "addr:streetAddress": "A1307 Eastbound, Fenstanton",
-        "addr:addressLocality": "Huntingdon",
+        "addr:streetAddress": "A1307 Eastbound",
+        "addr:addressLocality": "Fenstanton",
         "addr:postcode": "PE28 9HY",
         "addr:country": "GB",
         "contact:phone": "08719 846039",
@@ -5979,8 +5951,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846363",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -6038,34 +6010,6 @@
         "facilities": [
           "WiFi",
           "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.126469,
-          52.798424
-        ]
-      },
-      "properties": {
-        "ref": "370/Spalding",
-        "contact:website": "https://www.travelodge.co.uk/hotels/370/Spalding",
-        "name": "Travelodge Spalding",
-        "addr:streetAddress": "Springfields Outlet Centre, Camel Gate",
-        "addr:addressLocality": "Spalding",
-        "addr:postcode": "PE12 6EU",
-        "addr:country": "GB",
-        "contact:phone": "08719 846383",
-        "facilities": [
-          "WiFi",
-          "Chargeable parking onsite"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -6144,7 +6088,7 @@
         "ref": "373/Borehamwood",
         "contact:website": "https://www.travelodge.co.uk/hotels/373/Borehamwood",
         "name": "Travelodge Borehamwood",
-        "addr:streetAddress": "Elstree Way",
+        "addr:streetAddress": "Elstree Way, London",
         "addr:addressLocality": "Borehamwood",
         "addr:postcode": "WD6 1SD",
         "addr:country": "GB",
@@ -6201,8 +6145,8 @@
         "ref": "376/Stratford-Upon-Avon",
         "contact:website": "https://www.travelodge.co.uk/hotels/376/Stratford-Upon-Avon",
         "name": "Travelodge Stratford Upon Avon",
-        "addr:streetAddress": "251 Birmingham Road",
-        "addr:addressLocality": "Stratford-Upon-Avon",
+        "addr:streetAddress": "251 Birmingham Road, Stratford-Upon-Avon",
+        "addr:addressLocality": "Stratford Upon Avon",
         "addr:postcode": "CV37 0BF",
         "addr:country": "GB",
         "contact:phone": "08719 846414",
@@ -6487,8 +6431,8 @@
         "ref": "39/Ipswich-Stowmarket",
         "contact:website": "https://www.travelodge.co.uk/hotels/39/Ipswich-Stowmarket",
         "name": "Travelodge Ipswich Stowmarket",
-        "addr:streetAddress": "A14 Haughley, Stowmarket",
-        "addr:addressLocality": "Ipswich",
+        "addr:streetAddress": "A14 Haughley",
+        "addr:addressLocality": "Stowmarket",
         "addr:postcode": "IP14 3PY",
         "addr:country": "GB",
         "contact:phone": "08719 846043",
@@ -6549,9 +6493,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846427",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -6687,7 +6631,7 @@
         "ref": "400/London-Fulham",
         "contact:website": "https://www.travelodge.co.uk/hotels/400/London-Fulham",
         "name": "Travelodge London Fulham",
-        "addr:streetAddress": "290-302 North End Road, , Fulham",
+        "addr:streetAddress": "290-302 North End Road, Fulham",
         "addr:addressLocality": "London",
         "addr:postcode": "SW6 1NQ",
         "addr:country": "GB",
@@ -6830,8 +6774,8 @@
         "ref": "405/Clacton-on-Sea-Central",
         "contact:website": "https://www.travelodge.co.uk/hotels/405/Clacton-on-Sea-Central",
         "name": "Travelodge Clacton-on-Sea Central",
-        "addr:streetAddress": "45 Jackson Road",
-        "addr:addressLocality": "Clacton-On-Sea",
+        "addr:streetAddress": "45 Jackson Road, Clacton-On-Sea",
+        "addr:addressLocality": "",
         "addr:postcode": "CO15 1JA",
         "addr:country": "GB",
         "contact:phone": "08719 846433",
@@ -6864,8 +6808,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846244",
         "facilities": [
-          "WiFi",
           "chargeable parking nearby",
+          "WiFi",
           "Bar Cafe"
         ],
         "operator": "Travelodge UK",
@@ -7115,7 +7059,7 @@
         "ref": "417/Bromborough",
         "contact:website": "https://www.travelodge.co.uk/hotels/417/Bromborough",
         "name": "Travelodge Bromborough",
-        "addr:streetAddress": "Pool Lane, Bromborough, Wirral",
+        "addr:streetAddress": "Pool Lane, Wirral",
         "addr:addressLocality": "Bromborough",
         "addr:postcode": "CH62 4UE",
         "addr:country": "GB",
@@ -7143,7 +7087,7 @@
         "ref": "418/Edinburgh-Cameron-Toll",
         "contact:website": "https://www.travelodge.co.uk/hotels/418/Edinburgh-Cameron-Toll",
         "name": "Travelodge Edinburgh Cameron Toll",
-        "addr:streetAddress": "43 Craigmillar Park, , Cameron Toll, ",
+        "addr:streetAddress": "43 Craigmillar Park, Cameron Toll",
         "addr:addressLocality": "Edinburgh",
         "addr:postcode": "EH16 5PD",
         "addr:country": "GB",
@@ -7206,9 +7150,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846291",
         "facilities": [
+          "Chargeable parking nearby",
           "Bar Cafe",
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -7258,8 +7202,8 @@
         "ref": "424/Newcastle-under-Lyme-Central",
         "contact:website": "https://www.travelodge.co.uk/hotels/424/Newcastle-under-Lyme-Central",
         "name": "Travelodge Newcastle-under-Lyme Central",
-        "addr:streetAddress": "Lower Street",
-        "addr:addressLocality": "Newcastle-Under-Lyme",
+        "addr:streetAddress": "Lower Street, Newcastle-Under-Lyme",
+        "addr:addressLocality": "Newcastle Under Lyme",
         "addr:postcode": "ST5 2RS",
         "addr:country": "GB",
         "contact:phone": "08719 846446",
@@ -7485,7 +7429,7 @@
         "ref": "440/Arundel-Fontwell-Park",
         "contact:website": "https://www.travelodge.co.uk/hotels/440/Arundel-Fontwell-Park",
         "name": "Travelodge Arundel Fontwell Park",
-        "addr:streetAddress": "Fontwell Park, Fontwell Avenue, Fontwell",
+        "addr:streetAddress": "Fontwell Park, Fontwell Avenue, Fontwell, Arundel",
         "addr:addressLocality": "Arundel",
         "addr:postcode": "BN18 0SY",
         "addr:country": "GB",
@@ -7513,39 +7457,11 @@
         "ref": "441/Basildon-Wickford",
         "contact:website": "https://www.travelodge.co.uk/hotels/441/Basildon-Wickford",
         "name": "Travelodge Basildon Wickford",
-        "addr:streetAddress": "Runwell Road, Wickford",
-        "addr:addressLocality": "Basildon",
+        "addr:streetAddress": "Runwell Road",
+        "addr:addressLocality": "Wickford",
         "addr:postcode": "SS11 7QJ",
         "addr:country": "GB",
         "contact:phone": "08715 591802",
-        "facilities": [
-          "WiFi",
-          "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.636901,
-          51.602676
-        ]
-      },
-      "properties": {
-        "ref": "442/Beaconsfield-Central",
-        "contact:website": "https://www.travelodge.co.uk/hotels/442/Beaconsfield-Central",
-        "name": "Travelodge Beaconsfield Central",
-        "addr:streetAddress": "Aylesbury End",
-        "addr:addressLocality": "Beaconsfield",
-        "addr:postcode": "HP9 1LW",
-        "addr:country": "GB",
-        "contact:phone": "08715 591803",
         "facilities": [
           "WiFi",
           "Free parking onsite"
@@ -7597,8 +7513,8 @@
         "ref": "444/Birmingham-Streetly",
         "contact:website": "https://www.travelodge.co.uk/hotels/444/Birmingham-Streetly",
         "name": "Travelodge Birmingham Streetly",
-        "addr:streetAddress": "Chester Road, Streetly, Sutton Coldfield",
-        "addr:addressLocality": "Birmingham",
+        "addr:streetAddress": "Chester Road, Streetly",
+        "addr:addressLocality": "Sutton Coldfield",
         "addr:postcode": "B73 6SP",
         "addr:country": "GB",
         "contact:phone": "08715 591805",
@@ -7709,8 +7625,8 @@
         "ref": "448/Bromsgrove-Marlbrook",
         "contact:website": "https://www.travelodge.co.uk/hotels/448/Bromsgrove-Marlbrook",
         "name": "Travelodge Bromsgrove Marlbrook",
-        "addr:streetAddress": "462 Birmingham Road, Marlbrook",
-        "addr:addressLocality": "Bromsgrove",
+        "addr:streetAddress": "462 Birmingham Road, Bromsgrove",
+        "addr:addressLocality": "Marlbrook",
         "addr:postcode": "B61 0HR",
         "addr:country": "GB",
         "contact:phone": "08715 591809",
@@ -7793,8 +7709,8 @@
         "ref": "451/Cardiff-Airport",
         "contact:website": "https://www.travelodge.co.uk/hotels/451/Cardiff-Airport",
         "name": "Travelodge Cardiff Airport",
-        "addr:streetAddress": "Port Road, Rhoose, Barry",
-        "addr:addressLocality": "Cardiff",
+        "addr:streetAddress": "Port Road, Rhoose",
+        "addr:addressLocality": "Barry",
         "addr:postcode": "CF62 3BA",
         "addr:country": "GB",
         "contact:phone": "08715 591812",
@@ -8073,7 +7989,7 @@
         "ref": "463/Keighley",
         "contact:website": "https://www.travelodge.co.uk/hotels/463/Keighley",
         "name": "Travelodge Keighley",
-        "addr:streetAddress": "Bradford Road, Keighley, Yorkshire",
+        "addr:streetAddress": "Bradford Road, Yorkshire",
         "addr:addressLocality": "Keighley",
         "addr:postcode": "BD21 4BB",
         "addr:country": "GB",
@@ -8101,8 +8017,8 @@
         "ref": "464/Leeds-Morley",
         "contact:website": "https://www.travelodge.co.uk/hotels/464/Leeds-Morley",
         "name": "Travelodge Leeds Morley",
-        "addr:streetAddress": "Bruntcliffe Road, Morley",
-        "addr:addressLocality": "Leeds",
+        "addr:streetAddress": "Bruntcliffe Road, Leeds",
+        "addr:addressLocality": "Morley",
         "addr:postcode": "LS27 0LY",
         "addr:country": "GB",
         "contact:phone": "08715 591825",
@@ -8214,38 +8130,10 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/468/Milton-Keynes-Shenley-Church-End",
         "name": "Travelodge Milton Keynes Shenley Church End",
         "addr:streetAddress": "Burchard Crescent, Shenley, Church End",
-        "addr:addressLocality": "Milton",
+        "addr:addressLocality": "Milton Keynes",
         "addr:postcode": "MK5 6HQ",
         "addr:country": "GB",
         "contact:phone": "08715 591829",
-        "facilities": [
-          "WiFi",
-          "Free parking onsite"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.668841,
-          55.007133
-        ]
-      },
-      "properties": {
-        "ref": "469/Newcastle-Airport",
-        "contact:website": "https://www.travelodge.co.uk/hotels/469/Newcastle-Airport",
-        "name": "Travelodge Newcastle Airport",
-        "addr:streetAddress": "Kenton Bank, Newcastle Upon Tyne",
-        "addr:addressLocality": "Newcastle",
-        "addr:postcode": "NE3 3TY",
-        "addr:country": "GB",
-        "contact:phone": "08715 591830",
         "facilities": [
           "WiFi",
           "Free parking onsite"
@@ -8269,8 +8157,8 @@
         "ref": "470/Newcastle-Gosforth",
         "contact:website": "https://www.travelodge.co.uk/hotels/470/Newcastle-Gosforth",
         "name": "Travelodge Newcastle Gosforth",
-        "addr:streetAddress": "Rotary Way, North Brunton, Newcastle Upon Tyne",
-        "addr:addressLocality": "Newcastle",
+        "addr:streetAddress": "Rotary Way, North Brunton",
+        "addr:addressLocality": "Newcastle Upon Tyne",
         "addr:postcode": "NE3 5EH",
         "addr:country": "GB",
         "contact:phone": "08715 591831",
@@ -8297,8 +8185,8 @@
         "ref": "471/Northampton-Round-Spinney",
         "contact:website": "https://www.travelodge.co.uk/hotels/471/Northampton-Round-Spinney",
         "name": "Travelodge Northampton Round Spinney",
-        "addr:streetAddress": "Talavera Way, Round Spinney",
-        "addr:addressLocality": "Northampton",
+        "addr:streetAddress": "Talavera Way, Northampton",
+        "addr:addressLocality": "Round Spinney",
         "addr:postcode": "NN3 8RN",
         "addr:country": "GB",
         "contact:phone": "08715 591832",
@@ -8353,8 +8241,8 @@
         "ref": "473/London-Northolt",
         "contact:website": "https://www.travelodge.co.uk/hotels/473/London-Northolt",
         "name": "Travelodge London Northolt",
-        "addr:streetAddress": "Mandeville Road, Northolt",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "Mandeville Road",
+        "addr:addressLocality": "Northolt",
         "addr:postcode": "UB5 4LU",
         "addr:country": "GB",
         "contact:phone": "08715 591834",
@@ -8381,8 +8269,8 @@
         "ref": "474/Nottingham-Wollaton-Park",
         "contact:website": "https://www.travelodge.co.uk/hotels/474/Nottingham-Wollaton-Park",
         "name": "Travelodge Nottingham Wollaton Park",
-        "addr:streetAddress": "Derby Road, Wollaton Vale",
-        "addr:addressLocality": "Nottingham",
+        "addr:streetAddress": "Derby Road, Nottingham",
+        "addr:addressLocality": "Wollaton Vale",
         "addr:postcode": "NG8 2NR",
         "addr:country": "GB",
         "contact:phone": "08715 591835",
@@ -8437,7 +8325,7 @@
         "ref": "477/Perth-Central",
         "contact:website": "https://www.travelodge.co.uk/hotels/477/Perth-Central",
         "name": "Travelodge Perth Central",
-        "addr:streetAddress": "18 Dundee Road, Perth",
+        "addr:streetAddress": "18 Dundee Road",
         "addr:addressLocality": "Perth",
         "addr:postcode": "PH2 7AB",
         "addr:country": "GB",
@@ -8578,8 +8466,8 @@
         "ref": "481/Havant-Rowlands-Castle",
         "contact:website": "https://www.travelodge.co.uk/hotels/481/Havant-Rowlands-Castle",
         "name": "Travelodge Havant Rowlands Castle",
-        "addr:streetAddress": "1 Whichers Gate Road, Rowland's Castle, Portsmouth",
-        "addr:addressLocality": "Havant",
+        "addr:streetAddress": "1 Whichers Gate Road, Rowland's Castle",
+        "addr:addressLocality": "Portsmouth",
         "addr:postcode": "PO9 6BB",
         "addr:country": "GB",
         "contact:phone": "08715 591842",
@@ -8606,8 +8494,8 @@
         "ref": "482/Langley",
         "contact:website": "https://www.travelodge.co.uk/hotels/482/Langley",
         "name": "Travelodge Langley",
-        "addr:streetAddress": "399 London Road, Langley, Slough",
-        "addr:addressLocality": "Langley",
+        "addr:streetAddress": "399 London Road, Langley",
+        "addr:addressLocality": "Slough",
         "addr:postcode": "SL3 8PS",
         "addr:country": "GB",
         "contact:phone": "08715 591844",
@@ -8634,8 +8522,8 @@
         "ref": "484/London-South-Croydon",
         "contact:website": "https://www.travelodge.co.uk/hotels/484/London-South-Croydon",
         "name": "Travelodge London South Croydon",
-        "addr:streetAddress": "415 Brighton Road, South Croydon",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "415 Brighton Road",
+        "addr:addressLocality": "South Croydon",
         "addr:postcode": "CR2 6EJ",
         "addr:country": "GB",
         "contact:phone": "08715 591846",
@@ -8802,8 +8690,8 @@
         "ref": "493/Bodmin-Roche",
         "contact:website": "https://www.travelodge.co.uk/hotels/493/Bodmin-Roche",
         "name": "Travelodge Bodmin Roche",
-        "addr:streetAddress": "Victoria Inn, Victoria, Roche, St Austell",
-        "addr:addressLocality": "Bodmin",
+        "addr:streetAddress": "Victoria Inn, Victoria, Roche",
+        "addr:addressLocality": "St Austell",
         "addr:postcode": "PL26 8LQ",
         "addr:country": "GB",
         "contact:phone": "08719 846294",
@@ -8893,8 +8781,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846454",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -8972,13 +8860,12 @@
         "ref": "500/London-Ealing",
         "contact:website": "https://www.travelodge.co.uk/hotels/500/London-Ealing",
         "name": "Travelodge London Ealing",
-        "addr:streetAddress": "77 Uxbridge Road, Ealing",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "77 Uxbridge Road",
+        "addr:addressLocality": "Ealing",
         "addr:postcode": "W5 5SJ",
         "addr:country": "GB",
         "contact:phone": "08719 846465",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
           "Bar Cafe"
         ],
@@ -9342,15 +9229,15 @@
         "ref": "517/Gatwick-Airport-Central",
         "contact:website": "https://www.travelodge.co.uk/hotels/517/Gatwick-Airport-Central",
         "name": "Travelodge Gatwick Airport Central",
-        "addr:streetAddress": "Povey Cross Road, Gatwick, Horley",
-        "addr:addressLocality": "Gatwick",
+        "addr:streetAddress": "Povey Cross Road, Gatwick",
+        "addr:addressLocality": "Horley",
         "addr:postcode": "RH6 0BE",
         "addr:country": "GB",
         "contact:phone": "08719 846506",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -9572,8 +9459,8 @@
         "ref": "525/Birmingham-Halesowen",
         "contact:website": "https://www.travelodge.co.uk/hotels/525/Birmingham-Halesowen",
         "name": "Travelodge Birmingham Halesowen",
-        "addr:streetAddress": "Whitehall Road",
-        "addr:addressLocality": "Birmingham",
+        "addr:streetAddress": "Whitehall Road, Birmingham",
+        "addr:addressLocality": "Halesowen",
         "addr:postcode": "B63 3JS",
         "addr:country": "GB",
         "contact:phone": "08719 846488",
@@ -9659,7 +9546,7 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/53/Medway-M2",
         "name": "Travelodge Medway M2",
         "addr:streetAddress": "Moto Service Area, M2 Motorway Junctions 4-5, Rainham",
-        "addr:addressLocality": "Medway",
+        "addr:addressLocality": "Gillingham",
         "addr:postcode": "ME8 8PQ",
         "addr:country": "GB",
         "contact:phone": "08719 846198",
@@ -9742,8 +9629,8 @@
         "ref": "532/Manchester-Salford-Quays",
         "contact:website": "https://www.travelodge.co.uk/hotels/532/Manchester-Salford-Quays",
         "name": "Travelodge Manchester Salford Quays",
-        "addr:streetAddress": "18 Markendale Place, Salford",
-        "addr:addressLocality": "Manchester",
+        "addr:streetAddress": "18 Markendale Place",
+        "addr:addressLocality": "Salford",
         "addr:postcode": "M5 3GW",
         "addr:country": "GB",
         "contact:phone": "08719 846495",
@@ -9877,22 +9764,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.055027,
-          51.410838
+          -0.020973,
+          51.473802
         ]
       },
       "properties": {
-        "ref": "538/London-Crystal-Palace",
-        "contact:website": "https://www.travelodge.co.uk/hotels/538/London-Crystal-Palace",
-        "name": "Travelodge London Crystal Palace",
-        "addr:streetAddress": "Yeoman House, 61-63 Croydon Road, Penge",
+        "ref": "539/London-Greenwich",
+        "contact:website": "https://www.travelodge.co.uk/hotels/539/London-Greenwich",
+        "name": "Travelodge London Greenwich",
+        "addr:streetAddress": "Blackheath Road, Greenwich",
         "addr:addressLocality": "London",
-        "addr:postcode": "SE20 7TS",
+        "addr:postcode": "SE10 8DA",
         "addr:country": "GB",
-        "contact:phone": "08719 846507",
+        "contact:phone": "08719 846508",
         "facilities": [
           "WiFi",
-          "Free parking onsite"
+          "Chargeable parking nearby",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -9997,8 +9885,8 @@
         "ref": "542/London-Teddington",
         "contact:website": "https://www.travelodge.co.uk/hotels/542/London-Teddington",
         "name": "Travelodge London Teddington",
-        "addr:streetAddress": "Park House, Station Road, Teddington",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "Park House, Station Road",
+        "addr:addressLocality": "Teddington",
         "addr:postcode": "TW11 9AD",
         "addr:country": "GB",
         "contact:phone": "08719 846231",
@@ -10110,8 +9998,8 @@
         "ref": "548/Cheshire-Oaks",
         "contact:website": "https://www.travelodge.co.uk/hotels/548/Cheshire-Oaks",
         "name": "Travelodge Cheshire Oaks",
-        "addr:streetAddress": "Coliseum Leisure Park, Coliseum Way, Ellesmere Port",
-        "addr:addressLocality": "Cheshire",
+        "addr:streetAddress": "Coliseum Leisure Park, Coliseum Way",
+        "addr:addressLocality": "Ellesmere Port",
         "addr:postcode": "CH65 9HD",
         "addr:country": "GB",
         "contact:phone": "08719 846259",
@@ -10167,8 +10055,8 @@
         "ref": "55/Stoney-Cross-Lyndhurst",
         "contact:website": "https://www.travelodge.co.uk/hotels/55/Stoney-Cross-Lyndhurst",
         "name": "Travelodge Stoney Cross Lyndhurst",
-        "addr:streetAddress": "RUFUS STONE SERVICES, A31 Westbound, , Stoney Cross, Nr. Lyndhurst",
-        "addr:addressLocality": "",
+        "addr:streetAddress": "RUFUS STONE SERVICES, A31 Westbound, Stoney Cross, Lyndhurst,",
+        "addr:addressLocality": "Lyndhurst",
         "addr:postcode": "SO43 7GN",
         "addr:country": "GB",
         "contact:phone": "08719 846200",
@@ -10448,8 +10336,8 @@
         "ref": "564/London-Bromley",
         "contact:website": "https://www.travelodge.co.uk/hotels/564/London-Bromley",
         "name": "Travelodge London Bromley",
-        "addr:streetAddress": "37 London Road, Bromley",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "37 London Road",
+        "addr:addressLocality": "Bromley",
         "addr:postcode": "BR1 1DG",
         "addr:country": "GB",
         "contact:phone": "08715 591856",
@@ -10485,6 +10373,35 @@
         "facilities": [
           "WiFi",
           "Chargeable parking nearby"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.556386,
+          51.317534
+        ]
+      },
+      "properties": {
+        "ref": "566/Woking-Central",
+        "contact:website": "https://www.travelodge.co.uk/hotels/566/Woking-Central",
+        "name": "Travelodge Woking Central",
+        "addr:streetAddress": "White Rose Court, Oriental Road",
+        "addr:addressLocality": "Woking",
+        "addr:postcode": "GU22 7PJ",
+        "addr:country": "GB",
+        "contact:phone": "08719 846462",
+        "facilities": [
+          "WiFi",
+          "Chargeable parking onsite",
+          "Bar Cafe"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -10681,9 +10598,9 @@
         "addr:country": "GB",
         "contact:phone": "08715 591860",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11225,8 +11142,37 @@
         "contact:phone": "08715 591878",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.248837,
+          51.730801
+        ]
+      },
+      "properties": {
+        "ref": "599/Oxford-Abingdon-Road",
+        "contact:website": "https://www.travelodge.co.uk/hotels/599/Oxford-Abingdon-Road",
+        "name": "Travelodge Oxford Abingdon Road",
+        "addr:streetAddress": "Abingdon Road",
+        "addr:addressLocality": "Oxford",
+        "addr:postcode": "OX1 4XG",
+        "addr:country": "GB",
+        "contact:phone": "08715 591877",
+        "facilities": [
+          "Chargeable parking onsite",
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11247,8 +11193,8 @@
         "ref": "6/Barton-Mills",
         "contact:website": "https://www.travelodge.co.uk/hotels/6/Barton-Mills",
         "name": "Travelodge Barton Mills",
-        "addr:streetAddress": "A11, Fiveways Roundabout, Barton Mills, Mildenhall",
-        "addr:addressLocality": "Barton",
+        "addr:streetAddress": "A11, Fiveways Roundabout, Barton Mills",
+        "addr:addressLocality": "Mildenhall",
         "addr:postcode": "IP28 6AE",
         "addr:country": "GB",
         "contact:phone": "08719 846006",
@@ -11310,8 +11256,8 @@
         "contact:phone": "08715 591876",
         "facilities": [
           "WiFi",
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11339,8 +11285,8 @@
         "contact:phone": "08715 591879",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11418,8 +11364,8 @@
         "ref": "604/London-Belvedere",
         "contact:website": "https://www.travelodge.co.uk/hotels/604/London-Belvedere",
         "name": "Travelodge London Belvedere",
-        "addr:streetAddress": "Clydesdale Way, Picardy Manorway, Bexley",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "Clydesdale Way, Picardy Manorway",
+        "addr:addressLocality": "Bexley",
         "addr:postcode": "DA17 6FP",
         "addr:country": "GB",
         "contact:phone": "08715 591882",
@@ -11446,15 +11392,15 @@
         "ref": "605/Manchester-Sale",
         "contact:website": "https://www.travelodge.co.uk/hotels/605/Manchester-Sale",
         "name": "Travelodge Manchester Sale",
-        "addr:streetAddress": "Unit 1, Citygate 1, Cross Street, Sale",
-        "addr:addressLocality": "Manchester",
+        "addr:streetAddress": "Unit 1, Citygate 1, Cross Street",
+        "addr:addressLocality": "Sale",
         "addr:postcode": "M33 7JR",
         "addr:country": "GB",
         "contact:phone": "08715 591887",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11482,8 +11428,8 @@
         "contact:phone": "08715 591883",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11510,8 +11456,8 @@
         "addr:country": "GB",
         "contact:phone": "08715 591884",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11539,7 +11485,7 @@
         "contact:phone": "08715 591892",
         "facilities": [
           "WiFi",
-          "Chargeable parking nearby",
+          "Limited Free Parking on-site",
           "Bar Cafe"
         ],
         "operator": "Travelodge UK",
@@ -11596,7 +11542,6 @@
         "contact:phone": "08715 591893",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
           "Bar Cafe"
         ],
         "operator": "Travelodge UK",
@@ -11711,8 +11656,8 @@
         "contact:phone": "08715 591895",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11768,8 +11713,8 @@
         "contact:phone": "08715 591898",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11797,8 +11742,8 @@
         "contact:phone": "08715 591899",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11826,8 +11771,8 @@
         "contact:phone": "08719 846531",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11883,9 +11828,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846517",
         "facilities": [
-          "WiFi",
           "Free parking onsite",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -11941,8 +11886,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846523",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12049,15 +11994,15 @@
         "ref": "632/London-Harrow",
         "contact:website": "https://www.travelodge.co.uk/hotels/632/London-Harrow",
         "name": "Travelodge London Harrow",
-        "addr:streetAddress": "1 Greenhill Way, Harrow",
-        "addr:addressLocality": "London",
+        "addr:streetAddress": "1 Greenhill Way",
+        "addr:addressLocality": "Harrow",
         "addr:postcode": "HA1 1LE",
         "addr:country": "GB",
         "contact:phone": "08719 846526",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12078,15 +12023,15 @@
         "ref": "633/Newcastle-Quayside",
         "contact:website": "https://www.travelodge.co.uk/hotels/633/Newcastle-Quayside",
         "name": "Travelodge Newcastle Quayside",
-        "addr:streetAddress": "Riverview Buildings Close, Newcastle-upon-Tyne",
-        "addr:addressLocality": "Newcastle",
+        "addr:streetAddress": "Riverview Buildings Close",
+        "addr:addressLocality": "Newcastle-upon-Tyne",
         "addr:postcode": "NE1 3BE",
         "addr:country": "GB",
         "contact:phone": "08719 846524",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12143,8 +12088,8 @@
         "contact:phone": "08719 846499",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12228,8 +12173,8 @@
         "contact:phone": "08719 846532",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12256,9 +12201,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846533",
         "facilities": [
+          "Chargeable parking nearby",
           "Bar Cafe",
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12285,36 +12230,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846535",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
-        ],
-        "operator": "Travelodge UK",
-        "brand": "Travelodge",
-        "brand:wikidata": "Q9361374",
-        "tourism": "hotel"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.773769,
-          53.400055
-        ]
-      },
-      "properties": {
-        "ref": "644/Gainsborough",
-        "contact:website": "https://www.travelodge.co.uk/hotels/644/Gainsborough",
-        "name": "Travelodge Gainsborough",
-        "addr:streetAddress": "1A North Street",
-        "addr:addressLocality": "Gainsborough",
-        "addr:postcode": "DN21 2HP",
-        "addr:country": "GB",
-        "contact:phone": "08719 846537",
-        "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable Parking Nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12341,9 +12258,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846536",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12398,9 +12315,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846538",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12428,8 +12345,8 @@
         "contact:phone": "08719 846543",
         "facilities": [
           "Limited Free Parking on-site",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12457,8 +12374,8 @@
         "contact:phone": "08719 846540",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12499,6 +12416,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.044445,
+          53.989816
+        ]
+      },
+      "properties": {
+        "ref": "650/York-Monks-Cross",
+        "contact:website": "https://www.travelodge.co.uk/hotels/650/York-Monks-Cross",
+        "name": "Travelodge York Monks Cross",
+        "addr:streetAddress": "Monks Cross Shopping Park, Monks Cross",
+        "addr:addressLocality": "York",
+        "addr:postcode": "YO32 9GZ",
+        "addr:country": "GB",
+        "contact:phone": "08719 846542",
+        "facilities": [
+          "Free parking onsite",
+          "Bar Cafe",
+          "Air cooling unit"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.960311,
           51.227689
         ]
@@ -12514,8 +12460,8 @@
         "contact:phone": "08719 846541",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12543,8 +12489,8 @@
         "contact:phone": "08719 846551",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12599,9 +12545,38 @@
         "addr:country": "GB",
         "contact:phone": "08719 846545",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.486166,
+          53.325302
+        ]
+      },
+      "properties": {
+        "ref": "655/Rhyl-Seafront",
+        "contact:website": "https://www.travelodge.co.uk/hotels/655/Rhyl-Seafront",
+        "name": "Travelodge Rhyl Seafront",
+        "addr:streetAddress": "East Parade",
+        "addr:addressLocality": "Rhyl",
+        "addr:postcode": "LL18 3AQ",
+        "addr:country": "GB",
+        "contact:phone": "08719 846548",
+        "facilities": [
+          "Free parking onsite",
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12629,8 +12604,8 @@
         "contact:phone": "08719 846549",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12658,8 +12633,8 @@
         "contact:phone": "08719 846550",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12714,8 +12689,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846552",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12743,8 +12718,8 @@
         "contact:phone": "08719 846553",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12765,15 +12740,15 @@
         "ref": "662/Letchworth-Garden-City",
         "contact:website": "https://www.travelodge.co.uk/hotels/662/Letchworth-Garden-City",
         "name": "Travelodge Letchworth Garden City",
-        "addr:streetAddress": "Number Two, Avenue One",
-        "addr:addressLocality": "Letchworth Garden City",
+        "addr:streetAddress": "Number Two, Avenue One, Letchworth Garden City",
+        "addr:addressLocality": "Letchworth",
         "addr:postcode": "SG6 2HB",
         "addr:country": "GB",
         "contact:phone": "03719 846554",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12800,9 +12775,9 @@
         "addr:country": "GB",
         "contact:phone": "08719 846555",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12830,8 +12805,8 @@
         "contact:phone": "08719 846556",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12858,8 +12833,8 @@
         "addr:country": "GB",
         "contact:phone": "08719 846562",
         "facilities": [
-          "Air cooling unit",
-          "Chargeable parking nearby"
+          "Chargeable parking nearby",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12887,8 +12862,8 @@
         "contact:phone": "08719 846566",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12916,7 +12891,8 @@
         "contact:phone": "08719 846557",
         "facilities": [
           "WiFi",
-          "Free parking onsite"
+          "Free parking onsite",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -12965,15 +12941,15 @@
         "ref": "670/Portsmouth-City-Centre",
         "contact:website": "https://www.travelodge.co.uk/hotels/670/Portsmouth-City-Centre",
         "name": "Travelodge Portsmouth City Centre",
-        "addr:streetAddress": "Stanhope Road",
-        "addr:addressLocality": "Portsmouth",
+        "addr:streetAddress": "Stanhope Road, Portsmouth",
+        "addr:addressLocality": "Portmsouth",
         "addr:postcode": "PO1 1FB",
         "addr:country": "GB",
         "contact:phone": "08719 846567",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13001,8 +12977,8 @@
         "contact:phone": "08719 846560",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13051,16 +13027,16 @@
       "properties": {
         "ref": "674/London-Stockley-Park",
         "contact:website": "https://www.travelodge.co.uk/hotels/674/London-Stockley-Park",
-        "name": "Travelodge London Stockley Park Hayes",
-        "addr:streetAddress": "Bennetsfield Road, Stockley Park, Uxbridge",
-        "addr:addressLocality": "London",
+        "name": "Travelodge London  Stockley Park Hayes",
+        "addr:streetAddress": "Bennetsfield Road, Stockley Park",
+        "addr:addressLocality": "Uxbridge",
         "addr:postcode": "UB11 1FL",
         "addr:country": "GB",
         "contact:phone": "08719 846570",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13088,8 +13064,8 @@
         "contact:phone": "08719 846571",
         "facilities": [
           "Chargeable parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13138,8 +13114,8 @@
         "ref": "68/Thame",
         "contact:website": "https://www.travelodge.co.uk/hotels/68/Thame",
         "name": "Travelodge Thame",
-        "addr:streetAddress": "A418 Long Crendon Road",
-        "addr:addressLocality": "Thame",
+        "addr:streetAddress": "A418 Long Crendon Road, Thame",
+        "addr:addressLocality": "Oxford",
         "addr:postcode": "OX9 3SB",
         "addr:country": "GB",
         "contact:phone": "08719 846215",
@@ -13173,8 +13149,8 @@
         "contact:phone": "08719 846572",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13200,6 +13176,34 @@
         "addr:postcode": "OX28 4JT",
         "addr:country": "GB",
         "contact:phone": "08719 846576",
+        "facilities": [
+          "Free parking onsite",
+          "Air cooling unit"
+        ],
+        "operator": "Travelodge UK",
+        "brand": "Travelodge",
+        "brand:wikidata": "Q9361374",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.032354,
+          52.956338
+        ]
+      },
+      "properties": {
+        "ref": "682/Boston",
+        "contact:website": "https://www.travelodge.co.uk/hotels/682/Boston",
+        "name": "Travelodge Boston",
+        "addr:streetAddress": "Scott Drive, Wyberton",
+        "addr:addressLocality": "Boston",
+        "addr:postcode": "PE21 7NH",
+        "addr:country": "GB",
+        "contact:phone": "08719 846587",
         "facilities": [
           "Free parking onsite",
           "Air cooling unit"
@@ -13258,8 +13262,8 @@
         "contact:phone": "08719 846584",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13287,8 +13291,8 @@
         "contact:phone": "08719 846581",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13316,8 +13320,8 @@
         "contact:phone": "08719 846580",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13337,16 +13341,16 @@
       "properties": {
         "ref": "687/St-Albans-City-Centre",
         "contact:website": "https://www.travelodge.co.uk/hotels/687/St-Albans-City-Centre",
-        "name": "Travelodge St. Albans City Centre",
-        "addr:streetAddress": "53 St Peters Street",
-        "addr:addressLocality": "St. Albans",
+        "name": "Travelodge St. Albans  City Centre",
+        "addr:streetAddress": "53 St Peters Street, St. Albans",
+        "addr:addressLocality": "St Albans",
         "addr:postcode": "AL1 3DY",
         "addr:country": "GB",
         "contact:phone": "08719 846577",
         "facilities": [
-          "Air cooling unit",
           "Chargeable parking nearby",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13374,8 +13378,8 @@
         "contact:phone": "08719 846583",
         "facilities": [
           "Free parking onsite",
-          "Air cooling unit",
-          "Bar Cafe"
+          "Bar Cafe",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13388,23 +13392,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.810193,
-          53.074582
+          -0.418785,
+          51.386834
         ]
       },
       "properties": {
-        "ref": "689/Newark-on-Trent",
-        "contact:website": "https://www.travelodge.co.uk/hotels/689/Newark-on-Trent",
-        "name": "Travelodge Newark-on-Trent",
-        "addr:streetAddress": "Beaumond Cross, Portland Street",
-        "addr:addressLocality": "Newark",
-        "addr:postcode": "NG24 1XG",
+        "ref": "692/Walton-on-Thames-Central",
+        "contact:website": "https://www.travelodge.co.uk/hotels/692/Walton-on-Thames-Central",
+        "name": "Travelodge Walton-on-Thames Central",
+        "addr:streetAddress": "20-32 Church Street, Walton-on-Thames",
+        "addr:addressLocality": "London",
+        "addr:postcode": "KT12 2QS",
         "addr:country": "GB",
-        "contact:phone": "08719 846578",
+        "contact:phone": "08719 846586",
         "facilities": [
           "WiFi",
-          "Air cooling unit",
-          "Chargeable Parking Nearby"
+          "Free parking onsite",
+          "Air cooling unit"
         ],
         "operator": "Travelodge UK",
         "brand": "Travelodge",
@@ -13481,8 +13485,8 @@
         "ref": "74/Barton-Stacey",
         "contact:website": "https://www.travelodge.co.uk/hotels/74/Barton-Stacey",
         "name": "Travelodge Barton Stacey",
-        "addr:streetAddress": "A303 Westbound",
-        "addr:addressLocality": "Barton Stacey",
+        "addr:streetAddress": "A303 Westbound, Barton Stacey",
+        "addr:addressLocality": "Andover",
         "addr:postcode": "SO21 3NF",
         "addr:country": "GB",
         "contact:phone": "08719 846007",
@@ -13537,8 +13541,8 @@
         "ref": "76/Beckington",
         "contact:website": "https://www.travelodge.co.uk/hotels/76/Beckington",
         "name": "Travelodge Beckington",
-        "addr:streetAddress": "A36 Trowbridge Road",
-        "addr:addressLocality": "Beckington",
+        "addr:streetAddress": "A36 Trowbridge Road, Beckington",
+        "addr:addressLocality": "Bath",
         "addr:postcode": "BA11 6SF",
         "addr:country": "GB",
         "contact:phone": "08719 846220",
@@ -13651,7 +13655,7 @@
         "contact:website": "https://www.travelodge.co.uk/hotels/8/Heathrow-Heston-M4-Westbound",
         "name": "Travelodge Heathrow Heston M4 Westbound",
         "addr:streetAddress": "Moto Service Area, M4 Motorway, Heston",
-        "addr:addressLocality": "Heathrow",
+        "addr:addressLocality": "Hounslow",
         "addr:postcode": "TW5 9NB",
         "addr:country": "GB",
         "contact:phone": "08719 846261",
@@ -14014,8 +14018,8 @@
         "ref": "94/Bridgend-Pencoed",
         "contact:website": "https://www.travelodge.co.uk/hotels/94/Bridgend-Pencoed",
         "name": "Travelodge Bridgend Pencoed",
-        "addr:streetAddress": "Old Mill, Felindre Road, Pencoed",
-        "addr:addressLocality": "Bridgend",
+        "addr:streetAddress": "Old Mill, Felindre Road",
+        "addr:addressLocality": "Pencoed",
         "addr:postcode": "CF35 5HU",
         "addr:country": "GB",
         "contact:phone": "08719 846049",
@@ -14126,8 +14130,8 @@
         "ref": "98/St-Clears-Carmarthen",
         "contact:website": "https://www.travelodge.co.uk/hotels/98/St-Clears-Carmarthen",
         "name": "Travelodge St. Clears Carmarthen",
-        "addr:streetAddress": "A40/A4066 Roundabout, Tenby Road",
-        "addr:addressLocality": "St. Clears",
+        "addr:streetAddress": "A40/A4066 Roundabout, Tenby Road, St. Clears",
+        "addr:addressLocality": "Carmarthen",
         "addr:postcode": "SA33 4JN",
         "addr:country": "GB",
         "contact:phone": "08719 846053",
@@ -14154,7 +14158,7 @@
         "ref": "99/Stonehouse",
         "contact:website": "https://www.travelodge.co.uk/hotels/99/Stonehouse",
         "name": "Travelodge Stonehouse",
-        "addr:streetAddress": "A419 Eastington, Nr Stroud",
+        "addr:streetAddress": "A419 Eastington, Stroud",
         "addr:addressLocality": "Stonehouse",
         "addr:postcode": "GL10 3SQ",
         "addr:country": "GB",
